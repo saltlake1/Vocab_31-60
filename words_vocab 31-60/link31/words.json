@@ -1,0 +1,182 @@
+[
+    {
+        "word": "Acquire",
+        "part_of_speech": "Verb",
+        "definition": "To buy or obtain (an asset or object) for oneself; to learn or develop (a skill, habit, or quality).",
+        "hindi_meaning": "प्राप्त करना, हासिल करना",
+        "mnemonic": "Acquire sounds like 'a choir,' where you gather or obtain singers to form a group.",
+        "visual_representation": "Picture someone receiving a certificate after completing a course, symbolizing acquiring a skill.",
+        "example_sentence": "He managed to acquire a rare book that had been out of print for decades."
+    },
+    {
+        "word": "Beset",
+        "part_of_speech": "Verb",
+        "definition": "To trouble or threaten persistently; to surround and harass.",
+        "hindi_meaning": "घेरना, परेशान करना",
+        "mnemonic": "Beset sounds like 'be set upon,' indicating being surrounded or attacked.",
+        "visual_representation": "Imagine someone surrounded by wolves, representing being beset by problems.",
+        "example_sentence": "The company was beset by financial difficulties, leading to its eventual closure."
+    },
+    {
+        "word": "Causal",
+        "part_of_speech": "Adjective",
+        "definition": "Relating to or acting as a cause; implying a cause-and-effect relationship.",
+        "hindi_meaning": "कारण संबंधी, कार्यकारण संबंधी",
+        "mnemonic": "Causal sounds like 'cause all,' relating to the cause of something.",
+        "visual_representation": "Picture a row of dominoes where one causes the next to fall, symbolizing a causal relationship.",
+        "example_sentence": "The scientist studied the causal relationship between smoking and lung cancer."
+    },
+    {
+        "word": "Deleterious",
+        "part_of_speech": "Adjective",
+        "definition": "Causing harm or damage.",
+        "hindi_meaning": "हानिकारक, नुकसानदेह",
+        "mnemonic": "Deleterious sounds like 'delete,' suggesting something harmful that should be deleted or removed.",
+        "visual_representation": "Picture a toxic chemical being poured into a lake, symbolizing something harmful.",
+        "example_sentence": "The deleterious effects of pollution on the environment cannot be ignored."
+    },
+    {
+        "word": "Encomium",
+        "part_of_speech": "Noun",
+        "definition": "A speech or piece of writing that praises someone or something highly.",
+        "hindi_meaning": "प्रशस्ति, प्रशंसा",
+        "mnemonic": "Encomium sounds like 'in come I am,' as if someone is coming in to be praised.",
+        "visual_representation": "Imagine a person receiving an award with a speech praising their achievements.",
+        "example_sentence": "The CEO received an encomium for his leadership during the company’s challenging times."
+    },
+    {
+        "word": "Flabbergasted",
+        "part_of_speech": "Adjective",
+        "definition": "Extremely surprised or shocked.",
+        "hindi_meaning": "स्तब्ध, हक्का-बक्का",
+        "mnemonic": "Flabbergasted sounds like 'gasped,' indicating being so shocked that you gasp.",
+        "visual_representation": "Picture someone with their mouth wide open in shock, symbolizing being flabbergasted.",
+        "example_sentence": "She was flabbergasted when she won the lottery."
+    },
+    {
+        "word": "Goad",
+        "part_of_speech": "Verb / Noun",
+        "definition": "To provoke or annoy someone so as to stimulate some action or reaction; a spiked stick used for driving cattle.",
+        "hindi_meaning": "उकसाना, प्रेरित करना",
+        "mnemonic": "Goad sounds like 'go at,' as in pushing someone to go at something.",
+        "visual_representation": "Picture someone poking a bull to make it move forward, symbolizing goading.",
+        "example_sentence": "He was goaded into action by his friends’ constant teasing."
+    },
+    {
+        "word": "Husband",
+        "part_of_speech": "Verb",
+        "definition": "To use resources economically; to conserve.",
+        "hindi_meaning": "बचाना, मितव्ययिता से काम लेना",
+        "mnemonic": "Husband as a verb can be remembered as 'husbanding resources,' meaning to manage or conserve them.",
+        "visual_representation": "Imagine someone carefully rationing food during a long journey, symbolizing conservation.",
+        "example_sentence": "During the long winter, the family had to husband their supplies carefully to make them last."
+    },
+    {
+        "word": "Importune",
+        "part_of_speech": "Verb",
+        "definition": "To ask someone pressingly and persistently for or to do something.",
+        "hindi_meaning": "बार-बार अनुरोध करना, आग्रह करना",
+        "mnemonic": "Importune sounds like 'in poor tune,' where someone keeps asking for something like a broken record.",
+        "visual_representation": "Picture someone constantly nagging another person for a favor, symbolizing persistent asking.",
+        "example_sentence": "The beggar importuned passersby for money until someone finally gave him some change."
+    },
+    {
+        "word": "Livid",
+        "part_of_speech": "Adjective",
+        "definition": "Furiously angry; dark bluish-gray in color.",
+        "hindi_meaning": "क्रोधित, नीला-काला (रंग में)",
+        "mnemonic": "Livid sounds like 'live id,' imagining someone furious when their ID doesn’t work.",
+        "visual_representation": "Picture someone with a red, angry face, almost turning bluish-gray from rage.",
+        "example_sentence": "She was livid when she found out her brother had borrowed her car without asking."
+    },
+    {
+        "word": "Melancholy",
+        "part_of_speech": "Noun / Adjective",
+        "definition": "A deep, persistent sadness; having a feeling of melancholy; sad and pensive.",
+        "hindi_meaning": "उदासी, विषाद",
+        "mnemonic": "Melancholy sounds like 'mel-an-chor-lie,' a sad song lying in your heart.",
+        "visual_representation": "Picture someone sitting alone by a window on a rainy day, looking sad, symbolizing melancholy.",
+        "example_sentence": "The melancholy music added to the somber mood of the evening."
+    },
+    {
+        "word": "Novice",
+        "part_of_speech": "Noun",
+        "definition": "A person new to or inexperienced in a field or situation.",
+        "hindi_meaning": "नौसिखिया, प्रारंभिक",
+        "mnemonic": "Novice sounds like 'new vice,' indicating someone new to a habit or skill.",
+        "visual_representation": "Picture a beginner struggling to learn how to ride a bicycle, symbolizing a novice.",
+        "example_sentence": "As a novice in cooking, he often burned his meals."
+    },
+    {
+        "word": "Orient",
+        "part_of_speech": "Verb / Noun",
+        "definition": "To align or position something relative to a known point or landmark; the countries of Asia, especially East Asia.",
+        "hindi_meaning": "अभिमुख करना, पूर्वी देशों का समूह",
+        "mnemonic": "Orient sounds like 'oriented,' meaning to align or position something.",
+        "visual_representation": "Picture a compass helping someone align their map, symbolizing orientation.",
+        "example_sentence": "The map was oriented so that north was at the top."
+    },
+    {
+        "word": "Pauper",
+        "part_of_speech": "Noun",
+        "definition": "A very poor person.",
+        "hindi_meaning": "निर्धन व्यक्ति, गरीब",
+        "mnemonic": "Pauper sounds like 'poor per,' indicating a person who is very poor.",
+        "visual_representation": "Picture someone in tattered clothes begging on the street, symbolizing a pauper.",
+        "example_sentence": "The once-wealthy man died a pauper after losing his fortune."
+    },
+    {
+        "word": "Redundant",
+        "part_of_speech": "Adjective",
+        "definition": "Not or no longer needed or useful; superfluous.",
+        "hindi_meaning": "अनावश्यक, अतिश्योक्तिपूर्ण",
+        "mnemonic": "Redundant sounds like 're-done,' indicating something that has been done too many times, making it unnecessary.",
+        "visual_representation": "Picture multiple copies of the same document, with the extras being discarded as unnecessary.",
+        "example_sentence": "The new bridge made the old ferry service redundant."
+    },
+    {
+        "word": "Secular",
+        "part_of_speech": "Adjective",
+        "definition": "Not connected with religious or spiritual matters; worldly.",
+        "hindi_meaning": "धर्मनिरपेक्ष, सांसारिक",
+        "mnemonic": "Secular sounds like 'separate,' indicating something separate from religion.",
+        "visual_representation": "Picture a government building with a sign that says 'No Religious Affiliation,' symbolizing secularism.",
+        "example_sentence": "The constitution guarantees a secular state, where religion and government are separate."
+    },
+    {
+        "word": "Titanic",
+        "part_of_speech": "Adjective",
+        "definition": "Of exceptional strength, size, or power.",
+        "hindi_meaning": "विशाल, प्रचंड",
+        "mnemonic": "Titanic sounds like 'Titanic ship,' which was enormous and powerful.",
+        "visual_representation": "Imagine a massive ship or structure towering over everything else, symbolizing something titanic.",
+        "example_sentence": "The company faced a titanic challenge in trying to stay ahead of its competitors."
+    },
+    {
+        "word": "Unpalatable",
+        "part_of_speech": "Adjective",
+        "definition": "Not pleasant to taste; difficult to tolerate or accept.",
+        "hindi_meaning": "अप्रिय, अस्वादिष्ट",
+        "mnemonic": "Unpalatable sounds like 'un-palate-able,' indicating something that doesn’t taste good.",
+        "visual_representation": "Picture someone grimacing after tasting something bitter, symbolizing unpalatability.",
+        "example_sentence": "The medicine was effective but unpalatable, making it hard to swallow."
+    },
+    {
+        "word": "Virus",
+               "part_of_speech": "Noun",
+        "definition": "A microorganism that can infect and multiply within living cells; a harmful or corrupting influence.",
+        "hindi_meaning": "विषाणु, रोगाणु",
+        "mnemonic": "Virus sounds like 'vile us,' something that infects and causes harm.",
+        "visual_representation": "Imagine a small, spiky ball representing a virus, spreading through a computer or body.",
+        "example_sentence": "The flu virus spreads quickly in crowded places."
+    },
+    {
+        "word": "Winsome",
+        "part_of_speech": "Adjective",
+        "definition": "Attractive or appealing in appearance or character.",
+        "hindi_meaning": "आकर्षक, मोहक",
+        "mnemonic": "Winsome sounds like 'win some,' indicating someone who wins others over with charm.",
+        "visual_representation": "Picture a charming child with a bright smile, easily winning everyone’s affection.",
+        "example_sentence": "Her winsome personality made her popular with everyone she met."
+    }
+]

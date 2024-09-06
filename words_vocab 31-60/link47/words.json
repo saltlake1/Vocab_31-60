@@ -1,0 +1,182 @@
+[
+    {
+        "word": "Adversity",
+        "part_of_speech": "Noun",
+        "definition": "Difficulties or misfortune.",
+        "hindi_meaning": "विपत्ति, कठिनाई",
+        "mnemonic": "Adversity sounds like 'adverse-city,' indicating a city (or situation) full of challenges.",
+        "visual_representation": "Picture a person struggling against strong winds and storms, symbolizing facing adversity.",
+        "example_sentence": "She showed great resilience in the face of adversity."
+    },
+    {
+        "word": "Bluff",
+        "part_of_speech": "Verb / Noun",
+        "definition": "To deceive someone by pretending to have a stronger position or more resources than one actually has; a steep cliff or bank.",
+        "hindi_meaning": "धोखा देना, चट्टान",
+        "mnemonic": "Bluff sounds like 'bluffing,' indicating pretending or faking something.",
+        "visual_representation": "Imagine a poker player pretending to have a winning hand, symbolizing bluffing.",
+        "example_sentence": "He managed to bluff his way through the negotiations."
+    },
+    {
+        "word": "Chary",
+        "part_of_speech": "Adjective",
+        "definition": "Cautious or wary; reluctant to do something.",
+        "hindi_meaning": "सावधान, सतर्क",
+        "mnemonic": "Chary sounds like 'char-y,' as if carefully choosing your actions, like picking the right 'char' in a game.",
+        "visual_representation": "Picture someone carefully crossing a rickety bridge, symbolizing being chary.",
+        "example_sentence": "She was chary of investing in the new business venture."
+    },
+    {
+        "word": "Depredation",
+        "part_of_speech": "Noun",
+        "definition": "An act of attacking or plundering.",
+        "hindi_meaning": "लूटपाट, आक्रमण",
+        "mnemonic": "Depredation sounds like 'depredate,' indicating destruction or plundering.",
+        "visual_representation": "Imagine a group of bandits raiding a village, symbolizing depredation.",
+        "example_sentence": "The depredation of the countryside by the invading army left the villagers homeless."
+    },
+    {
+        "word": "Entrance",
+        "part_of_speech": "Verb",
+        "definition": "To fill someone with wonder and delight, holding their entire attention.",
+        "hindi_meaning": "मंत्रमुग्ध करना, सम्मोहित करना",
+        "mnemonic": "Entrance sounds like 'enter trance,' as if putting someone in a spellbinding state.",
+        "visual_representation": "Picture a magician captivating an audience with a mesmerizing performance, symbolizing entrance.",
+        "example_sentence": "The children were entranced by the magician’s tricks."
+    },
+    {
+        "word": "Foolhardy",
+        "part_of_speech": "Adjective",
+        "definition": "Recklessly bold or rash.",
+        "hindi_meaning": "मूर्खतापूर्ण साहसिक, अविवेकी",
+        "mnemonic": "Foolhardy sounds like 'fool-hardy,' indicating someone who is foolishly daring.",
+        "visual_representation": "Imagine someone jumping off a high cliff into unknown waters without thinking, symbolizing foolhardiness.",
+        "example_sentence": "It was foolhardy to go hiking in the mountains without proper gear."
+    },
+    {
+        "word": "Gruesome",
+        "part_of_speech": "Adjective",
+        "definition": "Causing repulsion or horror; grisly.",
+        "hindi_meaning": "भयानक, डरावना",
+        "mnemonic": "Gruesome sounds like 'grew-some,' indicating something that grows in horror or disgust.",
+        "visual_representation": "Picture a crime scene with blood and gore, symbolizing something gruesome.",
+        "example_sentence": "The movie was so gruesome that many people left the theater."
+    },
+    {
+        "word": "Harass",
+        "part_of_speech": "Verb",
+        "definition": "To subject someone to aggressive pressure or intimidation.",
+        "hindi_meaning": "परेशान करना, तंग करना",
+        "mnemonic": "Harass sounds like 'her-ass,' as if persistently bothering or troubling someone.",
+        "visual_representation": "Imagine someone being constantly pestered by others, symbolizing harassment.",
+        "example_sentence": "The employee filed a complaint after being harassed by her colleague."
+    },
+    {
+        "word": "Incipient",
+        "part_of_speech": "Adjective",
+        "definition": "Beginning to happen or develop.",
+        "hindi_meaning": "प्रारंभिक, आरंभिक",
+        "mnemonic": "Incipient sounds like 'in sip-pient,' as if something is just taking a small sip or starting out.",
+        "visual_representation": "Picture a tiny sprout emerging from the ground, symbolizing something incipient.",
+        "example_sentence": "The incipient stages of the project showed a lot of promise."
+    },
+    {
+        "word": "Laggard",
+        "part_of_speech": "Noun / Adjective",
+        "definition": "A person who makes slow progress and falls behind others; slower than desired or expected.",
+        "hindi_meaning": "सुस्त, धीमा व्यक्ति",
+        "mnemonic": "Laggard sounds like 'lag-gerd,' indicating someone who lags behind.",
+        "visual_representation": "Imagine a runner trailing far behind the rest in a race, symbolizing a laggard.",
+        "example_sentence": "The laggard failed to meet the deadline, delaying the entire project."
+    },
+    {
+        "word": "Mirage",
+        "part_of_speech": "Noun",
+        "definition": "An optical illusion caused by atmospheric conditions, especially the appearance of a sheet of water in a desert or on a hot road; something that appears real or possible but is not in fact so.",
+        "hindi_meaning": "मृगतृष्णा, भ्रम",
+        "mnemonic": "Mirage sounds like 'mirage image,' indicating an illusion that deceives the eye.",
+        "visual_representation": "Picture a traveler in the desert seeing a pool of water that isn’t actually there, symbolizing a mirage.",
+        "example_sentence": "The oasis turned out to be a mirage, disappearing as we got closer."
+    },
+    {
+        "word": "Naiveté",
+        "part_of_speech": "Noun",
+        "definition": "Lack of experience, wisdom, or judgment; innocence or unsophistication.",
+        "hindi_meaning": "भोला, अनुभवहीनता",
+        "mnemonic": "Naiveté sounds like 'naïve-tay,' indicating innocence or a lack of worldly experience.",
+        "visual_representation": "Imagine a child trusting everyone they meet, symbolizing naiveté.",
+        "example_sentence": "Her naiveté led her to believe everything he said without question."
+    },
+    {
+        "word": "Ogle",
+        "part_of_speech": "Verb",
+        "definition": "To stare at in a lecherous or flirtatious manner.",
+        "hindi_meaning": "घूरना, टकटकी लगाना",
+        "mnemonic": "Ogle sounds like 'ogle eyes,' indicating staring or gazing at someone with strong interest.",
+        "visual_representation": "Picture someone staring at another person with obvious attraction, symbolizing ogling.",
+        "example_sentence": "He couldn’t help but ogle the model as she walked down the runway."
+    },
+    {
+        "word": "Perpetrate",
+        "part_of_speech": "Verb",
+        "definition": "To carry out or commit (a harmful, illegal, or immoral action).",
+        "hindi_meaning": "अपराध करना, अंजाम देना",
+        "mnemonic": "Perpetrate sounds like 'per-pet-rate,' indicating committing or carrying out an act.",
+        "visual_representation": "Imagine someone committing a crime, like robbing a bank, symbolizing perpetration.",
+        "example_sentence": "The crime was perpetrated by a group of masked men."
+    },
+    {
+        "word": "Render",
+        "part_of_speech": "Verb",
+        "definition": "To provide or give (a service, help, etc.); to cause to be or become; to make.",
+        "hindi_meaning": "प्रदान करना, बनाना",
+        "mnemonic": "Render sounds like 'send-er,' as in sending or providing something.",
+        "visual_representation": "Picture a doctor rendering medical assistance to a patient, symbolizing providing help.",
+        "example_sentence": "The judge rendered a verdict of not guilty."
+    },
+    {
+        "word": "Shoddy",
+        "part_of_speech": "Adjective",
+        "definition": "Badly made or done; of poor quality.",
+        "hindi_meaning": "घटिया, खराब",
+        "mnemonic": "Shoddy sounds like 'sho-ddy,' indicating something poorly made or inferior.",
+        "visual_representation": "Imagine a cheaply made piece of furniture falling apart, symbolizing shoddy workmanship.",
+        "example_sentence": "The shoddy construction of the building led to its early collapse."
+    },
+    {
+        "word": "Transport",
+        "part_of_speech": "Noun / Verb",
+        "definition": "To carry, move, or convey from one place to another; a strong emotion or state of being overwhelmed by emotion.",
+        "hindi_meaning": "परिवहन, भावविभोर करना",
+        "mnemonic": "Transport sounds like 'trans-port,' indicating moving something across distances or being moved emotionally.",
+        "visual_representation": "Picture goods being loaded onto a truck for delivery, symbolizing physical transport, or someone being swept away by music, symbolizing emotional transport.",
+        "example_sentence": "The music transported her to a place of peace and serenity."
+    },
+    {
+        "word": "Untenable",
+        "part_of_speech": "Adjective",
+        "definition": "Not able to be maintained or defended against attack or objection.",
+        "hindi_meaning": "अस्थिर, असमर्थनीय",
+        "mnemonic": "Untenable sounds like 'un-ten-able,' indicating something that cannot be held or defended.",
+        "visual_representation": "Picture a crumbling wall that can no longer support itself, symbolizing an untenable position.",
+        "example_sentence": "His argument was so weak that it quickly became untenable."
+    },
+    {
+        "word": "Verbiage",
+        "part_of_speech": "Noun",
+        "definition": "Speech or writing that uses too many words or excessively technical expressions.",
+        "hindi_meaning": "शब्दाडंबर, अधिक शब्दों का प्रयोग",
+        "mnemonic": "Verbiage sounds like 'verb-age,' indicating an excessive use of words.",
+        "visual_representation": "Imagine a page filled with dense, overly complex text, symbolizing excessive verbiage.",
+        "example_sentence": "The report’s verbiage made it difficult to understand the main points."
+    },
+    {
+        "word": "Wistful",
+        "part_of_speech": "Adjective",
+        "definition": "Having or showing a feeling of vague or regretful longing.",
+        "hindi_meaning": "उदास, अतृप्त",
+        "mnemonic": "Wistful sounds like 'wish-full,' indicating a yearning or longing for something.",
+        "visual_representation": "Picture someone looking out of a window on a rainy day, deep in thought, symbolizing wistfulness.",
+        "example_sentence": "She gave a wistful smile, remembering the days of her youth."
+    }
+]

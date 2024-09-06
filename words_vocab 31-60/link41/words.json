@@ -1,0 +1,182 @@
+[
+    {
+        "word": "Adjacent",
+        "part_of_speech": "Adjective",
+        "definition": "Next to or adjoining something else.",
+        "hindi_meaning": "सटा हुआ, निकट",
+        "mnemonic": "Adjacent sounds like 'a-joint-cent,' indicating something that is next to or joined to another.",
+        "visual_representation": "Picture two houses with a shared wall, symbolizing adjacent properties.",
+        "example_sentence": "The parking lot is adjacent to the building, making it convenient for visitors."
+    },
+    {
+        "word": "Bland",
+        "part_of_speech": "Adjective",
+        "definition": "Lacking strong features or characteristics and therefore uninteresting; mild or insipid in flavor.",
+        "hindi_meaning": "फीका, नीरस",
+        "mnemonic": "Bland sounds like 'blandish,' indicating something plain or lacking flavor.",
+        "visual_representation": "Imagine a dish with no seasoning, tasting plain and uninteresting, symbolizing blandness.",
+        "example_sentence": "The soup was bland and needed more seasoning to make it flavorful."
+    },
+    {
+        "word": "Certitude",
+        "part_of_speech": "Noun",
+        "definition": "Absolute certainty or conviction that something is the case.",
+        "hindi_meaning": "निश्चय, विश्वास",
+        "mnemonic": "Certitude sounds like 'certain-tude,' indicating a state of being certain or sure.",
+        "visual_representation": "Picture a confident person with a firm stance, expressing absolute certainty, symbolizing certitude.",
+        "example_sentence": "He spoke with certitude, leaving no doubt about his belief in the project’s success."
+    },
+    {
+        "word": "Denotation",
+        "part_of_speech": "Noun",
+        "definition": "The literal or primary meaning of a word, in contrast to the feelings or ideas that the word suggests.",
+        "hindi_meaning": "शब्द का शाब्दिक अर्थ",
+        "mnemonic": "Denotation sounds like 'dictionary notation,' indicating the literal meaning of a word as found in a dictionary.",
+        "visual_representation": "Picture a dictionary with definitions of words, symbolizing denotation.",
+        "example_sentence": "The word 'home' has a denotation of a place where one lives, but it can also connote warmth and comfort."
+    },
+    {
+        "word": "Enormity",
+        "part_of_speech": "Noun",
+        "definition": "The great or extreme scale, seriousness, or extent of something perceived as bad or morally wrong; a grave crime or sin.",
+        "hindi_meaning": "भयावहता, गंभीरता",
+        "mnemonic": "Enormity sounds like 'enormous bad,' indicating something hugely wrong or terrible.",
+        "visual_representation": "Imagine a dark storm looming over a city, symbolizing the overwhelming and grave nature of enormity.",
+        "example_sentence": "The enormity of the disaster left the community in shock and disbelief."
+    },
+    {
+        "word": "Flout",
+        "part_of_speech": "Verb",
+        "definition": "To openly disregard a rule, law, or convention.",
+        "hindi_meaning": "अवहेलना करना, उपेक्षा करना",
+        "mnemonic": "Flout sounds like 'flaunt,' as in flaunting the rules by openly breaking them.",
+        "visual_representation": "Picture someone walking through a 'No Trespassing' sign, deliberately ignoring it, symbolizing flouting.",
+        "example_sentence": "He continued to flout the school rules, despite repeated warnings from the principal."
+    },
+    {
+        "word": "Gregarious",
+        "part_of_speech": "Adjective",
+        "definition": "(Of a person) fond of company; sociable.",
+        "hindi_meaning": "मिलनसार, सामाजिक",
+        "mnemonic": "Gregarious sounds like 'gather us,' indicating someone who likes to gather or be with others.",
+        "visual_representation": "Picture a lively person surrounded by friends, happily chatting, symbolizing gregariousness.",
+        "example_sentence": "She was so gregarious that she made friends wherever she went."
+    },
+    {
+        "word": "Histrionic",
+        "part_of_speech": "Adjective",
+        "definition": "Overly theatrical or melodramatic in character or style.",
+        "hindi_meaning": "नाटकीय, दिखावटी",
+        "mnemonic": "Histrionic sounds like 'hysteric-on,' indicating someone acting in an overly dramatic or exaggerated manner.",
+        "visual_representation": "Picture an actor on stage dramatically overacting a scene, symbolizing histrionics.",
+        "example_sentence": "Her histrionic outburst at the meeting caught everyone off guard."
+    },
+    {
+        "word": "Incantation",
+        "part_of_speech": "Noun",
+        "definition": "A series of words said as a magic spell or charm.",
+        "hindi_meaning": "जादू-मंत्र, वशीकरण",
+        "mnemonic": "Incantation sounds like 'in chant-ation,' indicating a series of words chanted for magical effects.",
+        "visual_representation": "Picture a wizard chanting over a bubbling cauldron, symbolizing an incantation.",
+        "example_sentence": "The witch’s incantation was meant to summon a powerful spirit."
+    },
+    {
+        "word": "Luminous",
+        "part_of_speech": "Adjective",
+        "definition": "Full of or shedding light; bright or shining, especially in the dark.",
+        "hindi_meaning": "चमकदार, प्रकाशमान",
+        "mnemonic": "Luminous sounds like 'lumen-us,' indicating something that emits or reflects light.",
+        "visual_representation": "Picture a glowing lantern illuminating a dark path, symbolizing something luminous.",
+        "example_sentence": "The stars were luminous in the clear night sky."
+    },
+    {
+        "word": "Mettle",
+        "part_of_speech": "Noun",
+        "definition": "A person's ability to cope well with difficulties or to face a demanding situation in a spirited and resilient way.",
+        "hindi_meaning": "साहस, धैर्य",
+        "mnemonic": "Mettle sounds like 'metal,' indicating strength and resilience, like strong metal.",
+        "visual_representation": "Picture a soldier standing firm in the face of adversity, symbolizing mettle.",
+        "example_sentence": "The team showed their mettle in the final minutes of the game, coming back from a deficit to win."
+    },
+    {
+        "word": "Nominal",
+        "part_of_speech": "Adjective",
+        "definition": "(Of a role or status) existing in name only; (Of a price or amount of money) very small; far below the real value or cost.",
+        "hindi_meaning": "नाममात्र का, न्यूनतम",
+        "mnemonic": "Nominal sounds like 'name-only-al,' indicating something in name only or very small in amount.",
+        "visual_representation": "Picture a sign that says 'Nominal Fee: $1,' indicating a very small charge.",
+        "example_sentence": "The club charges a nominal fee for membership, making it accessible to everyone."
+    },
+    {
+        "word": "Overt",
+        "part_of_speech": "Adjective",
+        "definition": "Done or shown openly; plainly or readily apparent, not secret or hidden.",
+        "hindi_meaning": "खुला, प्रकट",
+        "mnemonic": "Overt sounds like 'over it,' as in something that is openly visible or obvious.",
+        "visual_representation": "Imagine someone holding up a sign in broad daylight, openly declaring their intentions, symbolizing overt action.",
+        "example_sentence": "The government’s overt support for the policy made their stance clear."
+    },
+    {
+        "word": "Peremptory",
+        "part_of_speech": "Adjective",
+        "definition": "Insisting on immediate attention or obedience, especially in a brusquely imperious way; not open to appeal or challenge; final.",
+        "hindi_meaning": "दुराग्रही, तानाशाही",
+        "mnemonic": "Peremptory sounds like 'permit-tory,' as if someone is not permitting any discussion or delay, demanding immediate action.",
+        "visual_representation": "Picture a strict teacher giving an order that must be followed without question, symbolizing peremptory behavior.",
+        "example_sentence": "The officer issued a peremptory command, and the soldiers immediately obeyed."
+    },
+    {
+        "word": "Relinquish",
+        "part_of_speech": "Verb",
+        "definition": "To voluntarily cease to keep or claim; to give up.",
+        "hindi_meaning": "छोड़ देना, त्यागना",
+        "mnemonic": "Relinquish sounds like 're-link-wish,' as if wishing to unlink or let go of something.",
+        "visual_representation": "Picture someone handing over a prized possession to another person, symbolizing relinquishing.",
+        "example_sentence": "He had to relinquish control of the company due to his health issues."
+    },
+    {
+        "word": "Sever",
+        "part_of_speech": "Verb",
+        "definition": "To divide by cutting or slicing, especially suddenly and forcibly; to put an end to (a connection or relationship).",
+        "hindi_meaning": "काटना, तोड़ना",
+        "mnemonic": "Sever sounds like 'sever ties,' indicating cutting off or ending a relationship or connection.",
+        "visual_representation": "Imagine a pair of scissors cutting through a rope, symbolizing severing ties.",
+        "example_sentence": "She decided to sever all ties with her former business partner."
+    },
+    {
+        "word": "Traduce",
+        "part_of_speech": "Verb",
+        "definition": "To speak badly of or tell lies about someone so as to damage their reputation.",
+        "hindi_meaning": "बदनाम करना, झूठी बात फैलाना",
+        "mnemonic": "Traduce sounds like 'trade-use,' as if someone is trading in lies to use against another person.",
+        "visual_representation": "Picture someone spreading false rumors about another, damaging their reputation, symbolizing traducing.",
+        "example_sentence": "The politician was furious when he found out that his rival had traduced his character."
+    },
+    {
+        "word": "Unaccountable",
+        "part_of_speech": "Adjective",
+        "definition": "Unable to be explained or understood; not responsible or accountable.",
+        "hindi_meaning": "अकारण, जवाबदेही से मुक्त",
+        "mnemonic": "Unaccountable sounds like 'un-explainable,' indicating something that cannot be explained or accounted for.",
+        "visual_representation": "Picture a mysterious event that no one can explain, symbolizing something unaccountable.",
+        "example_sentence": "The sudden disappearance of the files was unaccountable and left everyone puzzled."
+    },
+    {
+        "word": "Voyeur",
+        "part_of_speech": "Noun",
+        "definition": "A person who gains sexual pleasure from watching others when they are naked or engaged in sexual activity; a person who enjoys watching the private lives of others without their knowledge.",
+        "hindi_meaning": "गुप्तचरी, झाँकने वाला",
+        "mnemonic": "Voyeur sounds like 'viewer,' indicating someone who watches others, often in a secretive or inappropriate way.",
+        "visual_representation": "Picture someone peeping through a keyhole, secretly watching others, symbolizing a voyeur.",
+        "example_sentence": "The novel explored the mind of a voyeur who was obsessed with watching others without their consent."
+    },
+    {
+        "word": "Whet",
+        "part_of_speech": "Verb",
+        "definition": "To sharpen the blade of a tool or weapon; to excite or stimulate (someone’s desire, interest, or appetite).",
+        "hindi_meaning": "तेज करना, उत्तेजित करना",
+        "mnemonic": "Whet sounds like 'wet,' as in making something sharp and ready, or making someone eager like sharpening their appetite.",
+        "visual_representation": "Picture a chef sharpening a knife before preparing a meal, symbolizing whetting the blade.",
+        "example_sentence": "The aroma of the food was enough to whet anyone’s appetite."
+    }
+]

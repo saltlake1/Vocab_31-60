@@ -1,0 +1,155 @@
+[
+    {
+        "word": "Affront",
+        "part_of_speech": "Noun / Verb",
+        "definition": "An action or remark that causes outrage or offense; to insult or offend someone openly.",
+        "hindi_meaning": "अपमान, तिरस्कार",
+        "mnemonic": "Affront sounds like 'a-front,' as if confronting someone in an offensive way.",
+        "visual_representation": "Imagine someone making a rude gesture in public, causing others to feel insulted, symbolizing an affront.",
+        "example_sentence": "His comments were seen as an affront to the dignity of the group."
+    },
+    {
+        "word": "Boon",
+        "part_of_speech": "Noun",
+        "definition": "A thing that is helpful or beneficial.",
+        "hindi_meaning": "वरदान, लाभ",
+        "mnemonic": "Boon sounds like 'bless-on,' indicating a blessing or something beneficial.",
+        "visual_representation": "Picture a rainstorm in a drought-stricken area, symbolizing a boon.",
+        "example_sentence": "The new job was a boon to his financial situation."
+    },
+    {
+        "word": "Chisel",
+        "part_of_speech": "Noun / Verb",
+        "definition": "A long-bladed hand tool with a beveled cutting edge and a handle, used to cut or shape wood, stone, or metal; to carve or shape something with a chisel.",
+        "hindi_meaning": "छेनी; धोखाधड़ी करना",
+        "mnemonic": "Chisel sounds like 'cheese-sell,' as if shaping cheese with a chisel-like tool.",
+        "visual_representation": "Imagine a sculptor carefully chiseling a block of stone into a beautiful statue, symbolizing the use of a chisel.",
+        "example_sentence": "He used a chisel to carve intricate designs into the wood."
+    },
+    {
+        "word": "Despoil",
+        "part_of_speech": "Verb",
+        "definition": "To steal or violently remove valuable or attractive possessions from; to plunder.",
+        "hindi_meaning": "लूटना, छीनना",
+        "mnemonic": "Despoil sounds like 'destroy-spoil,' indicating the act of spoiling or plundering something valuable.",
+        "visual_representation": "Picture a group of invaders looting a village and taking everything of value, symbolizing despoiling.",
+        "example_sentence": "The invaders despoiled the ancient city, taking its treasures and leaving it in ruins."
+    },
+    {
+        "word": "Epithet",
+        "part_of_speech": "Noun",
+        "definition": "An adjective or descriptive phrase expressing a quality or characteristic of the person or thing mentioned; often used as a term of abuse.",
+        "hindi_meaning": "उपाधि, विशेषण",
+        "mnemonic": "Epithet sounds like 'epic-thet,' indicating a descriptive phrase, whether positive or negative.",
+        "visual_representation": "Picture a character being called by a nickname that highlights a defining trait, symbolizing an epithet.",
+        "example_sentence": "The king earned the epithet 'the Brave' for his courage in battle."
+    },
+    {
+        "word": "Forsake",
+        "part_of_speech": "Verb",
+        "definition": "To abandon or renounce someone or something.",
+        "hindi_meaning": "त्याग देना, छोड़ देना",
+        "mnemonic": "Forsake sounds like 'for-sake,' as if giving up something for someone else’s sake.",
+        "visual_representation": "Imagine someone leaving behind their home and belongings to start a new life, symbolizing forsaking.",
+        "example_sentence": "He decided to forsake his old habits and start a new, healthier lifestyle."
+    },
+    {
+        "word": "Gape",
+        "part_of_speech": "Verb / Noun",
+        "definition": "To stare with one's mouth open wide, typically in amazement or wonder; a wide opening.",
+        "hindi_meaning": "आश्चर्य से देखना, मुँह बाये देखना",
+        "mnemonic": "Gape sounds like 'gap,' indicating a wide open mouth in surprise.",
+        "visual_representation": "Picture someone’s jaw dropping in amazement as they gape at something extraordinary.",
+        "example_sentence": "The crowd gaped in awe as the fireworks lit up the sky."
+    },
+    {
+        "word": "Hodgepodge",
+        "part_of_speech": "Noun",
+        "definition": "A confused mixture; a jumble.",
+        "hindi_meaning": "मिश्रण, खिचड़ी",
+        "mnemonic": "Hodgepodge sounds like 'hotch-potch,' indicating a mixture of various things thrown together.",
+        "visual_representation": "Imagine a bowl filled with different types of food all mixed together, symbolizing a hodgepodge.",
+        "example_sentence": "The book is a hodgepodge of various topics and ideas."
+    },
+    {
+        "word": "Incorporate",
+        "part_of_speech": "Verb",
+        "definition": "To take in or include as part of a whole; to form a legal corporation.",
+        "hindi_meaning": "सम्मिलित करना, शामिल करना",
+        "mnemonic": "Incorporate sounds like 'in-corporate,' indicating bringing something into a larger body or group.",
+        "visual_representation": "Picture ingredients being mixed into a batter, symbolizing incorporating elements into a whole.",
+        "example_sentence": "The new policy will incorporate feedback from all departments."
+    },
+    {
+        "word": "Lineage",
+        "part_of_speech": "Noun",
+        "definition": "Lineal descent from an ancestor; ancestry or pedigree.",
+        "hindi_meaning": "वंश, वंशावली",
+        "mnemonic": "Lineage sounds like 'line-age,' indicating a line of ancestors or descent.",
+        "visual_representation": "Imagine a family tree showing multiple generations, symbolizing lineage.",
+        "example_sentence": "She traced her lineage back to a royal family in Europe."
+    },
+    {
+        "word": "Misrepresent",
+        "part_of_speech": "Verb",
+        "definition": "To give a false or misleading account of the nature of something.",
+        "hindi_meaning": "गलत बयान करना, गलत ढंग से पेश करना",
+        "mnemonic": "Misrepresent sounds like 'miss-represent,' indicating presenting something incorrectly.",
+        "visual_representation": "Picture a news headline that distorts the truth of a story, symbolizing misrepresentation.",
+        "example_sentence": "The advertisement was criticized for misrepresenting the product’s benefits."
+    },
+    {
+        "word": "Outmoded",
+        "part_of_speech": "Adjective",
+        "definition": "Old-fashioned; no longer in style or use.",
+        "hindi_meaning": "पुराना, अप्रचलित",
+        "mnemonic": "Outmoded sounds like 'out-mode,' indicating something that is out of fashion or outdated.",
+        "visual_representation": "Picture an old rotary phone next to a modern smartphone, symbolizing something outmoded.",
+        "example_sentence": "The outmoded computer system could no longer handle the company’s needs."
+    },
+    {
+        "word": "Pessimism",
+        "part_of_speech": "Noun",
+        "definition": "A tendency to see the worst aspect of things or believe that the worst will happen.",
+        "hindi_meaning": "निराशावाद, नकारात्मकता",
+        "mnemonic": "Pessimism sounds like 'pess-im-ism,' indicating focusing on the 'pest' or negative aspects of situations.",
+        "visual_representation": "Imagine a person always expecting rain on a sunny day, symbolizing pessimism.",
+        "example_sentence": "His constant pessimism made it difficult for him to enjoy the good things in life."
+    },
+    {
+        "word": "Repercussion",
+        "part_of_speech": "Noun",
+        "definition": "An unintended consequence occurring some time after an event or action, especially an unwelcome one.",
+        "hindi_meaning": "प्रतिक्षेप, परिणाम",
+        "mnemonic": "Repercussion sounds like 're-percussion,' indicating a result or impact that echoes back after an action.",
+        "visual_representation": "Picture ripples spreading out from a stone thrown into water, symbolizing repercussions.",
+        "example_sentence": "The company’s decision to cut jobs had serious repercussions for the community."
+    },
+    {
+        "word": "Sinuous",
+        "part_of_speech": "Adjective",
+        "definition": "Having many curves and turns; lithe and flexible.",
+        "hindi_meaning": "लहरदार, घुमावदार",
+        "mnemonic": "Sinuous sounds like 'sin-you-us,' indicating something curvy or twisting like a snake.",
+        "visual_representation": "Imagine a winding mountain road with many curves, symbolizing something sinuous.",
+        "example_sentence": "The sinuous path through the forest was both beautiful and challenging."
+    },
+    {
+        "word": "Tribute",
+        "part_of_speech": "Noun",
+        "definition": "An act, statement, or gift that is intended to show gratitude, respect, or admiration.",
+        "hindi_meaning": "श्रद्धांजलि, सम्मान",
+        "mnemonic": "Tribute sounds like 'true-but,' indicating something true or heartfelt given in honor of someone.",
+        "visual_representation": "Picture a memorial statue with flowers laid at its base, symbolizing a tribute.",
+        "example_sentence": "The award was a tribute to his years of dedication and hard work."
+    },
+    {
+        "word": "Volition",
+        "part_of_speech": "Noun",
+        "definition": "The faculty or power of using one's will.",
+        "hindi_meaning": "इच्छा, स्वेच्छा",
+        "mnemonic": "Volition sounds like 'voluntary-tion,' indicating an action taken by choice or will.",
+        "visual_representation": "Imagine someone choosing between two doors, symbolizing the exercise of volition.",
+        "example_sentence": "She left the company of her own volition, deciding it was time for a change."
+    }
+]

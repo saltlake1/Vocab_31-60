@@ -1,0 +1,155 @@
+[
+    {
+        "word": "Affiliation",
+        "part_of_speech": "Noun",
+        "definition": "The state or process of being associated or connected with a larger organization or group.",
+        "hindi_meaning": "संबद्धता, संबंध",
+        "mnemonic": "Affiliation sounds like 'a fill-ation,' as if filling in a connection with a group or organization.",
+        "visual_representation": "Imagine a company logo on a document showing its partnership with another organization, symbolizing affiliation.",
+        "example_sentence": "His affiliation with the prestigious university gave him access to valuable resources."
+    },
+    {
+        "word": "Bolster",
+        "part_of_speech": "Verb / Noun",
+        "definition": "To support or strengthen; a long, thick pillow placed under other pillows for support.",
+        "hindi_meaning": "सहारा देना, ताक़त देना",
+        "mnemonic": "Bolster sounds like 'boast-er,' as if something that boasts or supports another thing.",
+        "visual_representation": "Picture a person holding up a heavy beam with a sturdy support underneath, symbolizing bolstering.",
+        "example_sentence": "The government’s investment bolstered the economy during the recession."
+    },
+    {
+        "word": "Checkered",
+        "part_of_speech": "Adjective",
+        "definition": "Marked by periods of varied fortune or discreditable incidents.",
+        "hindi_meaning": "उतार-चढ़ाव भरा, विवादास्पद",
+        "mnemonic": "Checkered sounds like 'checker-ed,' indicating a pattern of ups and downs, like a checkerboard.",
+        "visual_representation": "Imagine a chessboard with black and white squares, symbolizing a history of mixed fortunes.",
+        "example_sentence": "The politician’s checkered past made many voters skeptical of his promises."
+    },
+    {
+        "word": "Descry",
+        "part_of_speech": "Verb",
+        "definition": "To catch sight of something, especially something distant or difficult to see.",
+        "hindi_meaning": "देखना, पहचानना",
+        "mnemonic": "Descry sounds like 'describe,' as if noticing something and then describing it.",
+        "visual_representation": "Picture someone using binoculars to spot a distant ship on the horizon, symbolizing descrying.",
+        "example_sentence": "From the mountaintop, they could descry the faint outline of the distant village."
+    },
+    {
+        "word": "Epicure",
+        "part_of_speech": "Noun",
+        "definition": "A person who takes particular pleasure in fine food and drink.",
+        "hindi_meaning": "सुखवादी, भोजन का शौकीन",
+        "mnemonic": "Epicure sounds like 'epic-cure,' as if someone who knows the epic cure for hunger—fine dining.",
+        "visual_representation": "Picture a person savoring a gourmet meal with a satisfied expression, symbolizing an epicure.",
+        "example_sentence": "As an epicure, she always seeks out the best restaurants in town."
+    },
+    {
+        "word": "Foresight",
+        "part_of_speech": "Noun",
+        "definition": "The ability to predict or the action of predicting what will happen or be needed in the future.",
+        "hindi_meaning": "दूरदर्शिता, भविष्यदर्शिता",
+        "mnemonic": "Foresight sounds like 'fore-see,' indicating seeing or planning for the future.",
+        "visual_representation": "Picture a person looking through a telescope, seeing into the distance and planning ahead, symbolizing foresight.",
+        "example_sentence": "His foresight in investing in technology stocks early made him a millionaire."
+    },
+    {
+        "word": "Gusto",
+        "part_of_speech": "Noun",
+        "definition": "Enjoyment or vigor in doing something; zest.",
+        "hindi_meaning": "उत्साह, जोश",
+        "mnemonic": "Gusto sounds like 'just-go,' indicating going after something with enthusiasm.",
+        "visual_representation": "Imagine someone dancing with great energy and enjoyment, symbolizing gusto.",
+        "example_sentence": "She tackled the project with great gusto, eager to make it a success."
+    },
+    {
+        "word": "Humid",
+        "part_of_speech": "Adjective",
+        "definition": "Marked by a high level of moisture in the air.",
+        "hindi_meaning": "नम, आर्द्र",
+        "mnemonic": "Humid sounds like 'humidity,' indicating moisture in the air.",
+        "visual_representation": "Picture a steamy jungle where the air feels thick and damp, symbolizing humidity.",
+        "example_sentence": "The humid climate made it difficult to stay cool in the summer."
+    },
+    {
+        "word": "Incompatible",
+        "part_of_speech": "Adjective",
+        "definition": "Unable to exist together in harmony; conflicting.",
+        "hindi_meaning": "असंगत, मेल न खाने वाला",
+        "mnemonic": "Incompatible sounds like 'in-compass-able,' indicating something that cannot be combined or go together.",
+        "visual_representation": "Imagine two puzzle pieces that don’t fit together, symbolizing incompatibility.",
+        "example_sentence": "Their personalities were so incompatible that they often argued over small things."
+    },
+    {
+        "word": "Lethargic",
+        "part_of_speech": "Adjective",
+        "definition": "Sluggish and apathetic.",
+        "hindi_meaning": "सुस्त, आलसी",
+        "mnemonic": "Lethargic sounds like 'let-thar-jig,' as if someone is too sluggish to even jig or move.",
+        "visual_representation": "Picture someone lying on a couch all day, too tired or unmotivated to get up, symbolizing lethargy.",
+        "example_sentence": "The hot weather made everyone feel lethargic and unwilling to work."
+    },
+    {
+        "word": "Misconstrue",
+        "part_of_speech": "Verb",
+        "definition": "To interpret something wrongly; misunderstand.",
+        "hindi_meaning": "गलत समझना, ग़लत अर्थ निकालना",
+        "mnemonic": "Misconstrue sounds like 'miss-true,' indicating missing the true meaning.",
+        "visual_representation": "Imagine someone reading a message and completely misunderstanding its intent, symbolizing misconstruing.",
+        "example_sentence": "She misconstrued his friendly gesture as a sign of romantic interest."
+    },
+    {
+        "word": "Ordain",
+        "part_of_speech": "Verb",
+        "definition": "To make someone a priest or minister; to order or decree something officially.",
+        "hindi_meaning": "ठहराना, आदेश देना",
+        "mnemonic": "Ordain sounds like 'order-rain,' as if ordering something to be official, like a priest’s ordination.",
+        "visual_representation": "Picture a bishop laying hands on a person to ordain them as a priest.",
+        "example_sentence": "The church will ordain three new ministers next week."
+    },
+    {
+        "word": "Pertinacious",
+        "part_of_speech": "Adjective",
+        "definition": "Holding firmly to an opinion or a course of action.",
+        "hindi_meaning": "दृढ़, अडिग",
+        "mnemonic": "Pertinacious sounds like 'pert-in-acious,' as if someone is firmly holding onto something.",
+        "visual_representation": "Imagine someone holding tightly to a rope and refusing to let go, symbolizing pertinacity.",
+        "example_sentence": "Her pertinacious refusal to give up the case eventually led to a successful outcome."
+    },
+    {
+        "word": "Reparable",
+        "part_of_speech": "Adjective",
+        "definition": "Capable of being repaired or rectified.",
+        "hindi_meaning": "मरम्मत योग्य, सुधारा जा सकने वाला",
+        "mnemonic": "Reparable sounds like 'repair-able,' indicating something that can be fixed.",
+        "visual_representation": "Picture a broken vase being glued back together, symbolizing reparability.",
+        "example_sentence": "The damage to the car was extensive, but it was reparable."
+    },
+    {
+        "word": "Simper",
+        "part_of_speech": "Verb / Noun",
+        "definition": "To smile in an affectedly coy or ingratiating manner; an affectedly coy smile.",
+        "hindi_meaning": "कृत्रिम मुस्कान, बनावटी हंसी",
+        "mnemonic": "Simper sounds like 'simple-per,' as if giving a simple, insincere smile.",
+        "visual_representation": "Picture someone giving a sly, insincere smile, symbolizing simpering.",
+        "example_sentence": "She simpered at her boss’s joke, hoping to win his favor."
+    },
+    {
+        "word": "Trek",
+        "part_of_speech": "Noun / Verb",
+        "definition": "A long, arduous journey, especially one made on foot; to go on a long, difficult journey.",
+        "hindi_meaning": "लंबी यात्रा, कठिन यात्रा करना",
+        "mnemonic": "Trek sounds like 'track,' as if walking a long distance on a rough track.",
+        "visual_representation": "Imagine a group of hikers trekking through a dense forest, symbolizing a difficult journey.",
+        "example_sentence": "They embarked on a trek through the Himalayas that lasted several weeks."
+    },
+    {
+        "word": "Virile",
+        "part_of_speech": "Adjective",
+        "definition": "Having strength, energy, and a strong sex drive; manly.",
+        "hindi_meaning": "पुरुषत्वपूर्ण, शक्तिशाली",
+        "mnemonic": "Virile sounds like 'vital,' indicating something full of life and masculine energy.",
+        "visual_representation": "Picture a strong, muscular man confidently standing tall, symbolizing virility.",
+        "example_sentence": "The actor was known for his virile roles in action movies."
+    }
+]

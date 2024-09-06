@@ -1,0 +1,182 @@
+[
+    {
+        "word": "Adage",
+        "part_of_speech": "Noun",
+        "definition": "A short, pithy saying in general use, expressing a general truth.",
+        "hindi_meaning": "कहावत, लोकोक्ति",
+        "mnemonic": "Adage sounds like 'add age,' implying something old or wise, like an old saying.",
+        "visual_representation": "Imagine an elder sharing a wise proverb with younger people, symbolizing an adage.",
+        "example_sentence": "'A stitch in time saves nine' is a well-known adage that suggests acting early can prevent bigger problems."
+    },
+    {
+        "word": "Bicameral",
+        "part_of_speech": "Adjective",
+        "definition": "(Of a legislative body) having two branches or chambers.",
+        "hindi_meaning": "द्विसदनीय",
+        "mnemonic": "Bicameral sounds like 'bi-camera,' indicating two parts or chambers.",
+        "visual_representation": "Picture a parliament building with two separate chambers, symbolizing a bicameral legislature.",
+        "example_sentence": "The United States Congress is bicameral, consisting of the Senate and the House of Representatives."
+    },
+    {
+        "word": "Censor",
+        "part_of_speech": "Verb / Noun",
+        "definition": "To examine (a book, movie, etc.) officially and suppress unacceptable parts; an official who examines material to be published and suppresses any parts considered obscene or politically unacceptable.",
+        "hindi_meaning": "सेंसर करना, प्रतिबंध लगाना",
+        "mnemonic": "Censor sounds like 'sensor,' which detects and removes unwanted content.",
+        "visual_representation": "Imagine a red marker crossing out parts of a book, symbolizing censorship.",
+        "example_sentence": "The government decided to censor the film because of its controversial content."
+    },
+    {
+        "word": "Demeanor",
+        "part_of_speech": "Noun",
+        "definition": "Outward behavior or bearing.",
+        "hindi_meaning": "व्यवहार, चाल-ढाल",
+        "mnemonic": "Demeanor sounds like 'demon-or,' suggesting how one carries or presents oneself.",
+        "visual_representation": "Picture someone with a calm and composed demeanor during a tense situation.",
+        "example_sentence": "Her friendly demeanor made her well-liked by everyone in the office."
+    },
+    {
+        "word": "Enfranchise",
+        "part_of_speech": "Verb",
+        "definition": "To give the right to vote to someone; to grant a franchise to a company.",
+        "hindi_meaning": "मताधिकार देना, स्वतंत्रता देना",
+        "mnemonic": "Enfranchise sounds like 'in franchise,' as in granting rights or inclusion.",
+        "visual_representation": "Picture people casting their votes for the first time, symbolizing enfranchisement.",
+        "example_sentence": "The movement sought to enfranchise women and ensure they had the right to vote."
+    },
+    {
+        "word": "Fleece",
+        "part_of_speech": "Verb / Noun",
+        "definition": "To deceive or swindle someone out of money; the woolly covering of a sheep or goat.",
+        "hindi_meaning": "ठगना, ऊन की परत",
+        "mnemonic": "Fleece sounds like 'flee with ease,' as if taking someone’s money easily and running away.",
+        "visual_representation": "Picture a con artist taking someone’s money and running away, symbolizing fleecing.",
+        "example_sentence": "The tourists were fleeced by the street vendor who charged them double the usual price."
+    },
+    {
+        "word": "Grandiloquent",
+        "part_of_speech": "Adjective",
+        "definition": "Pompous or extravagant in language, style, or manner, especially in a way that is intended to impress.",
+        "hindi_meaning": "आडंबरपूर्ण, भव्य शब्दावली वाला",
+        "mnemonic": "Grandiloquent sounds like 'grand eloquent,' indicating a style of speaking that is overly grand or pompous.",
+        "visual_representation": "Imagine someone giving a speech full of big, fancy words to impress others, symbolizing grandiloquence.",
+        "example_sentence": "The politician’s grandiloquent speech was filled with complex words that didn’t really say much."
+    },
+    {
+        "word": "Haphazard",
+        "part_of_speech": "Adjective",
+        "definition": "Lacking any obvious principle of organization; random.",
+        "hindi_meaning": "अव्यवस्थित, बेतरतीब",
+        "mnemonic": "Haphazard sounds like 'half hazard,' indicating something done carelessly or randomly.",
+        "visual_representation": "Picture a messy room with items scattered everywhere without any order, symbolizing haphazardness.",
+        "example_sentence": "The project was completed in a haphazard manner, with no clear plan or organization."
+    },
+    {
+        "word": "Impudence",
+        "part_of_speech": "Noun",
+        "definition": "The quality of being impudent; impertinence; disrespectful boldness.",
+        "hindi_meaning": "धृष्टता, उद्दंडता",
+        "mnemonic": "Impudence sounds like 'improper dance,' as if someone is acting in a disrespectful or bold manner.",
+        "visual_representation": "Imagine a student talking back to a teacher with a smirk, symbolizing impudence.",
+        "example_sentence": "The child’s impudence shocked the adults at the dinner table."
+    },
+    {
+        "word": "Lout",
+        "part_of_speech": "Noun",
+        "definition": "An uncouth or aggressive man or boy.",
+        "hindi_meaning": "गंवार, अभद्र व्यक्ति",
+        "mnemonic": "Lout sounds like 'loud,' indicating someone who is loud, rude, or uncouth.",
+        "visual_representation": "Picture a rough, aggressive man pushing others aside rudely, symbolizing a lout.",
+        "example_sentence": "The lout made a scene at the bar, yelling and shoving people around."
+    },
+    {
+        "word": "Mercurial",
+        "part_of_speech": "Adjective",
+        "definition": "Subject to sudden or unpredictable changes of mood or mind.",
+        "hindi_meaning": "चंचल, अस्थिर",
+        "mnemonic": "Mercurial sounds like 'mercury,' which moves quickly and changes form, indicating rapid mood changes.",
+        "visual_representation": "Picture someone’s emotions changing rapidly, from happy to angry, symbolizing mercurial behavior.",
+        "example_sentence": "Her mercurial temperament made it difficult to predict how she would react."
+    },
+    {
+        "word": "Numismatist",
+        "part_of_speech": "Noun",
+        "definition": "A person who studies or collects coins, paper currency, and medals.",
+        "hindi_meaning": "मुद्राशास्त्री, सिक्के इकट्ठा करने वाला",
+        "mnemonic": "Numismatist sounds like 'numbers specialist,' indicating someone who specializes in coins or currency.",
+        "visual_representation": "Picture someone examining ancient coins with a magnifying glass, symbolizing a numismatist.",
+        "example_sentence": "The numismatist proudly displayed his collection of rare coins from around the world."
+    },
+    {
+        "word": "Ostracize",
+        "part_of_speech": "Verb",
+        "definition": "To exclude someone from a society or group.",
+        "hindi_meaning": "बहिष्कृत करना, समाज से निकालना",
+        "mnemonic": "Ostracize sounds like 'ostrich size,' as if someone is being treated like an outcast.",
+        "visual_representation": "Picture a group of people turning their backs on one person, symbolizing ostracization.",
+        "example_sentence": "The community ostracized him after he was caught cheating."
+    },
+    {
+        "word": "Pellucid",
+        "part_of_speech": "Adjective",
+        "definition": "Translucently clear; easily understood.",
+        "hindi_meaning": "पारदर्शी, स्पष्ट",
+        "mnemonic": "Pellucid sounds like 'pel-lucid,' indicating something clear or easy to understand.",
+        "visual_representation": "Picture a crystal-clear stream of water where every stone at the bottom is visible, symbolizing pellucidity.",
+        "example_sentence": "The teacher’s explanations were pellucid, making the complex topic easy to grasp."
+    },
+    {
+        "word": "Regimen",
+        "part_of_speech": "Noun",
+        "definition": "A prescribed course of medical treatment, diet, or exercise for the promotion or restoration of health.",
+        "hindi_meaning": "योजना, आहार-विधि",
+        "mnemonic": "Regimen sounds like 'regime,' indicating a systematic plan or routine.",
+        "visual_representation": "Picture a daily schedule with specific times for exercise, meals, and rest, symbolizing a regimen.",
+        "example_sentence": "He followed a strict fitness regimen to prepare for the marathon."
+    },
+    {
+        "word": "Seminary",
+        "part_of_speech": "Noun",
+        "definition": "A college that prepares students to be priests, ministers, or rabbis.",
+        "hindi_meaning": "धार्मिक शिक्षा संस्थान, धर्मशिक्षालय",
+        "mnemonic": "Seminary sounds like 'seminar-y,' a place where religious seminars or teachings take place.",
+        "visual_representation": "Picture a group of students studying religious texts in a peaceful setting, symbolizing a seminary.",
+        "example_sentence": "He studied theology at the seminary before becoming a priest."
+    },
+    {
+        "word": "Torrid",
+        "part_of_speech": "Adjective",
+        "definition": "Very hot and dry; full of passionate or highly charged emotions.",
+        "hindi_meaning": "अत्यधिक गर्म, उष्ण",
+        "mnemonic": "Torrid sounds like 'torrent,' indicating something intense or scorching.",
+        "visual_representation": "Picture a desert landscape under a blazing sun, symbolizing torrid heat.",
+        "example_sentence": "The torrid summer heat made it nearly impossible to go outside during the day."
+    },
+    {
+        "word": "Ungainly",
+        "part_of_speech": "Adjective",
+        "definition": "(Of a person or movement) awkward; clumsy.",
+        "hindi_meaning": "बेढंगा, अटपटा",
+        "mnemonic": "Ungainly sounds like 'un-gainly,' indicating someone who moves in an awkward or clumsy manner.",
+        "visual_representation": "Picture someone tripping over their own feet while walking, symbolizing ungainly movement.",
+        "example_sentence": "The ungainly teenager struggled to keep up with the dance steps."
+    },
+    {
+        "word": "Vociferous",
+        "part_of_speech": "Adjective",
+        "definition": "(Especially of a person or speech) vehement or clamorous.",
+        "hindi_meaning": "शोरगुल करने वाला, जोरदार",
+        "mnemonic": "Vociferous sounds like 'voice furious,' indicating someone who is loudly expressing their anger or opinion.",
+        "visual_representation": "Picture someone shouting loudly in protest, symbolizing vociferous behavior.",
+        "example_sentence": "The vociferous crowd demanded immediate action from the government."
+    },
+    {
+        "word": "Wily",
+        "part_of_speech": "Adjective",
+        "definition": "Skilled at gaining an advantage, especially deceitfully; crafty.",
+        "hindi_meaning": "चालाक, धूर्त",
+        "mnemonic": "Wily sounds like 'will-y,' someone who uses their will or cleverness to outsmart others.",
+        "visual_representation": "Picture a fox sneaking through a forest, symbolizing cunning and wily behavior.",
+        "example_sentence": "The wily fox managed to escape the hunter’s trap once again."
+    }
+]

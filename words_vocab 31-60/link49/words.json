@@ -1,0 +1,173 @@
+[
+    {
+        "word": "Aesthetic",
+        "part_of_speech": "Adjective / Noun",
+        "definition": "Concerned with beauty or the appreciation of beauty; a set of principles underlying the work of a particular artist or artistic movement.",
+        "hindi_meaning": "सौंदर्य संबंधी, सौंदर्यशास्त्र",
+        "mnemonic": "Aesthetic sounds like 'artistic,' indicating something related to beauty or art.",
+        "visual_representation": "Picture a beautifully designed room with elegant decor, symbolizing a strong aesthetic sense.",
+        "example_sentence": "The gallery was known for its collection of artworks that reflected modern aesthetic values."
+    },
+    {
+        "word": "Bode",
+        "part_of_speech": "Verb",
+        "definition": "To be an omen of a particular outcome.",
+        "hindi_meaning": "संकेत देना, पूर्वाभास देना",
+        "mnemonic": "Bode sounds like 'code,' indicating a signal or sign of something to come.",
+        "visual_representation": "Imagine dark clouds gathering in the sky, symbolizing that they bode ill weather.",
+        "example_sentence": "The sudden drop in temperature does not bode well for the upcoming harvest."
+    },
+    {
+        "word": "Chasten",
+        "part_of_speech": "Verb",
+        "definition": "To discipline, punish, or restrain someone, often to improve or refine their behavior.",
+        "hindi_meaning": "सुधारना, अनुशासन सिखाना",
+        "mnemonic": "Chasten sounds like 'chase-ten,' as if chasing someone to correct or discipline them.",
+        "visual_representation": "Picture a parent scolding a child to teach them a lesson, symbolizing chastening.",
+        "example_sentence": "The harsh criticism was meant to chasten the athlete and improve his performance."
+    },
+    {
+        "word": "Derivative",
+        "part_of_speech": "Adjective / Noun",
+        "definition": "Imitative of the work of another person, and usually disapproved of for that reason; something that is based on another source.",
+        "hindi_meaning": "व्युत्पन्न, नकल किया हुआ",
+        "mnemonic": "Derivative sounds like 'derive-ative,' indicating something derived from another source, often lacking originality.",
+        "visual_representation": "Imagine a painting that closely resembles another famous work, symbolizing something derivative.",
+        "example_sentence": "The movie was criticized for its derivative plot, which borrowed heavily from other films."
+    },
+    {
+        "word": "Enunciate",
+        "part_of_speech": "Verb",
+        "definition": "To say or pronounce clearly; to express (a proposition or theory) in clear or definite terms.",
+        "hindi_meaning": "स्पष्ट उच्चारण करना, स्पष्ट रूप से कहना",
+        "mnemonic": "Enunciate sounds like 'announce-iate,' indicating speaking clearly and distinctly.",
+        "visual_representation": "Picture a public speaker carefully pronouncing each word to ensure clarity, symbolizing enunciation.",
+        "example_sentence": "The teacher asked the student to enunciate his words more clearly during the presentation."
+    },
+    {
+        "word": "Forebears",
+        "part_of_speech": "Noun",
+        "definition": "Ancestors; people in your family who lived a long time ago.",
+        "hindi_meaning": "पूर्वज, पुरखा",
+        "mnemonic": "Forebears sounds like 'for-bears,' as if referring to those who came before.",
+        "visual_representation": "Imagine a family tree with many branches, representing generations of forebears.",
+        "example_sentence": "The traditions of our forebears have been passed down through generations."
+    },
+    {
+        "word": "Guileless",
+        "part_of_speech": "Adjective",
+        "definition": "Devoid of guile; innocent and without deception.",
+        "hindi_meaning": "निष्कपट, मासूम",
+        "mnemonic": "Guileless sounds like 'guilt-less,' indicating someone innocent and free of deceit.",
+        "visual_representation": "Picture a child with a sincere, open expression, symbolizing a guileless nature.",
+        "example_sentence": "Her guileless smile made everyone trust her immediately."
+    },
+    {
+        "word": "Hibernate",
+        "part_of_speech": "Verb",
+        "definition": "(Of an animal or plant) to spend the winter in a dormant state.",
+        "hindi_meaning": "शीतनिद्रा में सोना, सुषुप्तावस्था में रहना",
+        "mnemonic": "Hibernate sounds like 'hide-and-bate,' as if hiding away during winter.",
+        "visual_representation": "Picture a bear sleeping in a cave during the winter, symbolizing hibernation.",
+        "example_sentence": "Bears hibernate in their dens during the cold winter months."
+    },
+    {
+        "word": "Incline",
+        "part_of_speech": "Verb / Noun",
+        "definition": "To feel willing or favorably disposed toward something; to have a tendency to do something; a slope or slant.",
+        "hindi_meaning": "झुकना, प्रवृत्त होना; ढलान",
+        "mnemonic": "Incline sounds like 'in-cline,' as if leaning in a particular direction or being inclined to do something.",
+        "visual_representation": "Imagine a hill sloping upward, symbolizing an incline.",
+        "example_sentence": "He is inclined to accept the job offer, given its attractive salary."
+    },
+    {
+        "word": "Lateral",
+        "part_of_speech": "Adjective / Noun",
+        "definition": "Of, at, toward, or from the side or sides; a sideways part or movement.",
+        "hindi_meaning": "पार्श्विक, किनारे का",
+        "mnemonic": "Lateral sounds like 'side-eral,' indicating something related to the sides.",
+        "visual_representation": "Picture a person taking a step to the side, symbolizing lateral movement.",
+        "example_sentence": "The company made a lateral move by shifting employees to different departments."
+    },
+    {
+        "word": "Misapprehension",
+        "part_of_speech": "Noun",
+        "definition": "A mistaken belief about or interpretation of something.",
+        "hindi_meaning": "ग़लतफ़हमी, गलत धारणा",
+        "mnemonic": "Misapprehension sounds like 'mis-under-prehension,' indicating a misunderstanding or wrong idea.",
+        "visual_representation": "Imagine someone holding a map upside down and getting lost, symbolizing a misapprehension.",
+        "example_sentence": "His comments were based on a misapprehension of the facts."
+    },
+    {
+        "word": "Opaque",
+        "part_of_speech": "Adjective",
+        "definition": "Not able to be seen through; not transparent; hard or impossible to understand.",
+        "hindi_meaning": "अपारदर्शी, अस्पष्ट",
+        "mnemonic": "Opaque sounds like 'oh-pack,' indicating something that is thick and unclear, not letting light pass through.",
+        "visual_representation": "Picture a foggy window through which you cannot see anything clearly, symbolizing opacity.",
+        "example_sentence": "The opaque glass in the bathroom window provides privacy."
+    },
+    {
+        "word": "Persona",
+        "part_of_speech": "Noun",
+        "definition": "The aspect of someone's character that is presented to or perceived by others.",
+        "hindi_meaning": "व्यक्तित्व, मुखौटा",
+        "mnemonic": "Persona sounds like 'person-a,' indicating the version of a person presented to the public.",
+        "visual_representation": "Imagine an actor putting on a mask, symbolizing a persona.",
+        "example_sentence": "His public persona is very different from his private life."
+    },
+    {
+        "word": "Renounce",
+               "part_of_speech": "Verb",
+        "definition": "To formally declare one’s abandonment of (a claim, right, or possession); to reject or disown.",
+        "hindi_meaning": "त्यागना, परित्याग करना",
+        "mnemonic": "Renounce sounds like 're-announce,' as if announcing again to give up or abandon something.",
+        "visual_representation": "Picture someone tearing up a contract or throwing away a crown, symbolizing renunciation.",
+        "example_sentence": "The prince renounced his claim to the throne to marry a commoner."
+    },
+    {
+        "word": "Shyster",
+        "part_of_speech": "Noun",
+        "definition": "A person, especially a lawyer, who uses unscrupulous, fraudulent, or deceptive methods in business.",
+        "hindi_meaning": "ठग, बेईमान व्यक्ति",
+        "mnemonic": "Shyster sounds like 'shy-stir,' indicating someone who stirs trouble through dishonesty.",
+        "visual_representation": "Picture a sleazy lawyer trying to trick someone into signing a shady deal, symbolizing a shyster.",
+        "example_sentence": "The company was sued for hiring a shyster lawyer who manipulated the legal process."
+    },
+    {
+        "word": "Traverse",
+        "part_of_speech": "Verb / Noun",
+        "definition": "To travel across or through; a movement or journey across something.",
+        "hindi_meaning": "पार करना, यात्रा करना",
+        "mnemonic": "Traverse sounds like 'travel-verse,' indicating moving or crossing over something.",
+        "visual_representation": "Imagine someone walking across a bridge over a river, symbolizing traversal.",
+        "example_sentence": "The hikers traversed the mountain range over several days."
+    },
+    {
+        "word": "Unimpeachable",
+        "part_of_speech": "Adjective",
+        "definition": "Not able to be doubted, questioned, or criticized; entirely trustworthy.",
+        "hindi_meaning": "अचूक, निर्विवाद",
+        "mnemonic": "Unimpeachable sounds like 'un-im-peach-able,' indicating someone who cannot be removed or criticized.",
+        "visual_representation": "Picture a judge who is known for their integrity and fairness, symbolizing unimpeachability.",
+        "example_sentence": "Her honesty and integrity make her an unimpeachable witness."
+    },
+    {
+        "word": "Vex",
+        "part_of_speech": "Verb",
+        "definition": "To make someone feel annoyed, frustrated, or worried, especially with trivial matters.",
+        "hindi_meaning": "परेशान करना, झुंझलाना",
+        "mnemonic": "Vex sounds like 'hex,' as if someone is casting a small, irritating spell on you.",
+        "visual_representation": "Imagine someone repeatedly tapping on your shoulder, causing irritation and vexation.",
+        "example_sentence": "The constant noise from the construction site vexed the residents."
+    },
+    {
+        "word": "Wary",
+        "part_of_speech": "Adjective",
+        "definition": "Feeling or showing caution about possible dangers or problems.",
+        "hindi_meaning": "सतर्क, सावधान",
+        "mnemonic": "Wary sounds like 'worry,' indicating being cautious and alert.",
+        "visual_representation": "Picture a cat slowly approaching a new object, ready to jump back if necessary, symbolizing wariness.",
+        "example_sentence": "She was wary of strangers and always kept her distance from them."
+    }
+]

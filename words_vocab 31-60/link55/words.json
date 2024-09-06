@@ -1,0 +1,155 @@
+[
+    {
+        "word": "Agenda",
+        "part_of_speech": "Noun",
+        "definition": "A list of items to be discussed or acted upon at a meeting; a plan or goal that guides someone's behavior.",
+        "hindi_meaning": "कार्यसूची, एजेंडा",
+        "mnemonic": "Agenda sounds like 'a-gender,' indicating something that needs to be addressed or handled, like a list of tasks.",
+        "visual_representation": "Picture a piece of paper with bullet points outlining the topics to be covered in a meeting, symbolizing an agenda.",
+        "example_sentence": "The first item on the agenda is the budget report."
+    },
+    {
+        "word": "Boundless",
+        "part_of_speech": "Adjective",
+        "definition": "Unlimited; immense.",
+        "hindi_meaning": "असीमित, अनंत",
+        "mnemonic": "Boundless sounds like 'bound-less,' indicating something without boundaries or limits.",
+        "visual_representation": "Imagine an endless ocean stretching as far as the eye can see, symbolizing something boundless.",
+        "example_sentence": "Her creativity is boundless, always coming up with new ideas."
+    },
+    {
+        "word": "Choreography",
+        "part_of_speech": "Noun",
+        "definition": "The sequence of steps and movements in dance or figure skating, especially in a ballet or other staged dance.",
+        "hindi_meaning": "नृत्य-रचना, नृत्य का संयोजन",
+        "mnemonic": "Choreography sounds like 'choreo-graphy,' indicating the graphing or planning of dance movements.",
+        "visual_representation": "Picture a dance instructor mapping out the steps and movements for a performance, symbolizing choreography.",
+        "example_sentence": "The choreography for the musical was intricate and beautifully executed."
+    },
+    {
+        "word": "Despot",
+        "part_of_speech": "Noun",
+        "definition": "A ruler or other person who holds absolute power, typically one who exercises it in a cruel or oppressive way.",
+        "hindi_meaning": "तानाशाह, निरंकुश शासक",
+        "mnemonic": "Despot sounds like 'desp-ot,' indicating someone who despises others’ freedom and rules with an iron fist.",
+        "visual_representation": "Imagine a tyrant on a throne, ruling over subjects with absolute authority, symbolizing a despot.",
+        "example_sentence": "The despot’s reign of terror left the country in ruins."
+    },
+    {
+        "word": "Epoch",
+        "part_of_speech": "Noun",
+        "definition": "A particular period of time in history or a person’s life, marked by notable events or particular characteristics.",
+        "hindi_meaning": "युग, कालखंड",
+        "mnemonic": "Epoch sounds like 'epic,' indicating a significant period in history.",
+        "visual_representation": "Picture a timeline with a highlighted segment representing a major historical event, symbolizing an epoch.",
+        "example_sentence": "The discovery of electricity marked a new epoch in human history."
+    },
+    {
+        "word": "Forte",
+        "part_of_speech": "Noun",
+        "definition": "A person’s strong suit or most highly developed characteristic, talent, or skill; something one excels at.",
+        "hindi_meaning": "विशेष योग्यता, ताकत",
+        "mnemonic": "Forte sounds like 'forte,' indicating strength or something one is particularly good at.",
+        "visual_representation": "Imagine a musician playing a piece of music with exceptional skill, symbolizing their forte.",
+        "example_sentence": "Cooking has always been her forte, and she’s known for her delicious meals."
+    },
+    {
+        "word": "Garrulous",
+        "part_of_speech": "Adjective",
+        "definition": "Excessively talkative, especially on trivial matters.",
+        "hindi_meaning": "बकवादी, अधिक बोलने वाला",
+        "mnemonic": "Garrulous sounds like 'garry-us,' as if someone named Garry won’t stop talking about everything.",
+        "visual_representation": "Picture someone talking endlessly without letting anyone else get a word in, symbolizing garrulousness.",
+        "example_sentence": "The garrulous old man talked endlessly about his past adventures."
+    },
+    {
+        "word": "Hyperbole",
+        "part_of_speech": "Noun",
+        "definition": "Exaggerated statements or claims not meant to be taken literally.",
+        "hindi_meaning": "अतिशयोक्ति, बढ़ा-चढ़ाकर कहना",
+        "mnemonic": "Hyperbole sounds like 'hyper-bowl,' indicating an exaggerated or over-the-top expression.",
+        "visual_representation": "Imagine someone saying, 'I’m so hungry I could eat a horse,' symbolizing hyperbole.",
+        "example_sentence": "Saying she’s the best singer in the world is pure hyperbole."
+    },
+    {
+        "word": "Incorrigible",
+        "part_of_speech": "Adjective",
+        "definition": "Not able to be corrected, improved, or reformed.",
+        "hindi_meaning": "सुधरने योग्य नहीं, अंशोधनीय",
+        "mnemonic": "Incorrigible sounds like 'in-correct-able,' indicating someone who cannot be corrected or improved.",
+        "visual_representation": "Picture someone repeatedly making the same mistake despite numerous attempts to correct them, symbolizing incorrigibility.",
+        "example_sentence": "His incorrigible habit of lying made it impossible to trust him."
+    },
+    {
+        "word": "List",
+        "part_of_speech": "Noun / Verb",
+        "definition": "A number of connected items or names written or printed consecutively, typically one below the other; to tilt to one side, especially of a ship.",
+        "hindi_meaning": "सूची; एक ओर झुकना",
+        "mnemonic": "List sounds like 'listing,' indicating both a series of items and tilting.",
+        "visual_representation": "Imagine a ship leaning to one side in rough seas, symbolizing listing, or a piece of paper with tasks written down in order, symbolizing a list.",
+        "example_sentence": "The ship began to list dangerously after it was hit by the storm."
+    },
+    {
+        "word": "Missive",
+        "part_of_speech": "Noun",
+        "definition": "A letter, especially a long or official one.",
+        "hindi_meaning": "पत्र, चिट्ठी",
+        "mnemonic": "Missive sounds like 'message-ive,' indicating a written message or letter.",
+        "visual_representation": "Picture an old-fashioned letter sealed with wax, symbolizing a missive.",
+        "example_sentence": "She sent a lengthy missive to her friend, detailing all her recent adventures."
+    },
+    {
+        "word": "Overbearing",
+        "part_of_speech": "Adjective",
+        "definition": "Unpleasantly or arrogantly domineering.",
+        "hindi_meaning": "हठी, दबंग",
+        "mnemonic": "Overbearing sounds like 'over-baring,' as if someone is overly imposing their will on others.",
+        "visual_representation": "Imagine a boss who constantly micromanages and controls every aspect of the work environment, symbolizing overbearing behavior.",
+        "example_sentence": "Her overbearing attitude made it difficult for others to work with her."
+    },
+    {
+        "word": "Petty",
+        "part_of_speech": "Adjective",
+        "definition": "Of little importance; trivial; showing narrow-mindedness or small-mindedness.",
+        "hindi_meaning": "तुच्छ, संकीर्ण",
+        "mnemonic": "Petty sounds like 'pity,' as if feeling pity for someone who is focused on insignificant details.",
+        "visual_representation": "Picture someone arguing over a minor issue like a misplaced pen, symbolizing pettiness.",
+        "example_sentence": "They were constantly bickering over petty issues, which strained their relationship."
+    },
+    {
+        "word": "Replenish",
+        "part_of_speech": "Verb",
+        "definition": "To fill something up again; restore to its former level or condition.",
+        "hindi_meaning": "फिर से भरना, पुनः पूर्ति करना",
+        "mnemonic": "Replenish sounds like 're-plenish,' indicating filling something again.",
+        "visual_representation": "Imagine pouring water into an empty glass until it’s full again, symbolizing replenishing.",
+        "example_sentence": "The rain helped to replenish the reservoir after a long drought."
+    },
+    {
+        "word": "Skiff",
+        "part_of_speech": "Noun",
+        "definition": "A shallow, flat-bottomed open boat with sharp bow and square stern.",
+        "hindi_meaning": "छोटी नाव, डोंगी",
+        "mnemonic": "Skiff sounds like 'swift,' indicating a small, light boat that moves quickly across the water.",
+        "visual_representation": "Picture a small boat gliding across a calm lake, symbolizing a skiff.",
+        "example_sentence": "The fisherman rowed his skiff out into the calm waters of the lake."
+    },
+    {
+        "word": "Trigger",
+        "part_of_speech": "Noun / Verb",
+        "definition": "A device that initiates a process or reaction; to cause an event or situation to happen or exist.",
+        "hindi_meaning": "ट्रिगर, उत्प्रेरक; शुरू करना",
+        "mnemonic": "Trigger sounds like 'trig-ger,' indicating something that causes an action to occur.",
+        "visual_representation": "Imagine someone pulling the trigger of a gun, setting off a chain of events, symbolizing triggering.",
+        "example_sentence": "The scandal triggered a series of protests across the country."
+    },
+    {
+        "word": "Vouchsafe",
+        "part_of_speech": "Verb",
+        "definition": "To give or grant something to someone in a gracious or condescending manner.",
+        "hindi_meaning": "कृपापूर्वक देना, प्रदान करना",
+        "mnemonic": "Vouchsafe sounds like 'vow-safe,' as if making a vow to safely give something in a gracious manner.",
+        "visual_representation": "Picture a king graciously granting a favor to a subject, symbolizing vouchsafing.",
+        "example_sentence": "The queen vouchsafed her approval of the new laws after much consideration."
+    }
+]

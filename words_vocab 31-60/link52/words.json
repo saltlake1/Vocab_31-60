@@ -1,0 +1,155 @@
+[
+    {
+        "word": "Affirmation",
+        "part_of_speech": "Noun",
+        "definition": "The action or process of affirming something or being affirmed; a statement or sign that something is true.",
+        "hindi_meaning": "पुष्टि, स्वीकृति",
+        "mnemonic": "Affirmation sounds like 'affirm-a-tion,' indicating something that confirms or affirms.",
+        "visual_representation": "Picture someone nodding with a confident smile, symbolizing affirmation.",
+        "example_sentence": "Her affirmation of the team’s hard work boosted everyone’s morale."
+    },
+    {
+        "word": "Bolt",
+        "part_of_speech": "Verb / Noun",
+        "definition": "To move or run away suddenly; a metal pin or bar, in particular.",
+        "hindi_meaning": "भागना, तेज़ी से भागना; बोल्ट",
+        "mnemonic": "Bolt sounds like 'bolt out,' indicating a sudden, quick movement.",
+        "visual_representation": "Imagine a horse suddenly bolting out of its stable, symbolizing a quick escape.",
+        "example_sentence": "The cat bolted out the door as soon as it was opened."
+    },
+    {
+        "word": "Chicanery",
+        "part_of_speech": "Noun",
+        "definition": "The use of trickery to achieve a political, financial, or legal purpose.",
+        "hindi_meaning": "छल-कपट, धोखा",
+        "mnemonic": "Chicanery sounds like 'chick-canary,' as if a trickster is trying to convince you a chick is a canary.",
+        "visual_representation": "Picture a sly person deceiving others with smooth talk and tricks, symbolizing chicanery.",
+        "example_sentence": "The politician’s chicanery was eventually exposed, leading to a public outcry."
+    },
+    {
+        "word": "Desiccate",
+        "part_of_speech": "Verb",
+        "definition": "To remove the moisture from something, typically in order to preserve it; to dry out.",
+        "hindi_meaning": "सुखाना, नमी निकालना",
+        "mnemonic": "Desiccate sounds like 'de-sick-ate,' as if drying something out to prevent it from spoiling.",
+        "visual_representation": "Imagine drying herbs under the sun until they become crisp, symbolizing desiccation.",
+        "example_sentence": "The desiccated coconut was used as a topping for the cake."
+    },
+    {
+        "word": "Epilogue",
+        "part_of_speech": "Noun",
+        "definition": "A section or speech at the end of a book or play that serves as a comment on or a conclusion to what has happened.",
+        "hindi_meaning": "उपसंहार, अंतकथन",
+        "mnemonic": "Epilogue sounds like 'epi-log,' indicating a final log or chapter at the end of a story.",
+        "visual_representation": "Picture the final chapter of a book that wraps up the story, symbolizing an epilogue.",
+        "example_sentence": "The epilogue of the novel revealed what happened to the characters years later."
+    },
+    {
+        "word": "Forgo",
+        "part_of_speech": "Verb",
+        "definition": "To refrain from or decline to take something; to do without.",
+        "hindi_meaning": "त्याग करना, छोड़ देना",
+        "mnemonic": "Forgo sounds like 'for-go,' indicating letting something go or passing it by.",
+        "visual_representation": "Imagine someone declining a piece of cake because they’re on a diet, symbolizing forgoing.",
+        "example_sentence": "She decided to forgo dessert to stick to her diet."
+    },
+    {
+        "word": "Gaffe",
+        "part_of_speech": "Noun",
+        "definition": "An unintentional act or remark causing embarrassment to its originator; a blunder.",
+        "hindi_meaning": "चूक, भूल",
+        "mnemonic": "Gaffe sounds like 'gaff,' as in a mistake or slip-up.",
+        "visual_representation": "Picture someone accidentally saying the wrong name at an important event, symbolizing a gaffe.",
+        "example_sentence": "The politician’s gaffe during the speech led to widespread criticism."
+    },
+    {
+        "word": "Hallowed",
+        "part_of_speech": "Adjective",
+        "definition": "Made holy; consecrated; greatly revered and honored.",
+        "hindi_meaning": "पवित्र, पूजनीय",
+        "mnemonic": "Hallowed sounds like 'halo-ed,' indicating something holy or sacred.",
+        "visual_representation": "Imagine a church or sacred ground that is deeply respected, symbolizing something hallowed.",
+        "example_sentence": "The battlefield was hallowed ground, where many soldiers had lost their lives."
+    },
+    {
+        "word": "Inconsequential",
+        "part_of_speech": "Adjective",
+        "definition": "Not important or significant.",
+        "hindi_meaning": "महत्वहीन, तुच्छ",
+        "mnemonic": "Inconsequential sounds like 'in-consequence-al,' indicating something that doesn’t have significant consequences.",
+        "visual_representation": "Picture a tiny pebble compared to a mountain, symbolizing something inconsequential.",
+        "example_sentence": "The mistake was inconsequential and didn’t affect the final outcome."
+    },
+    {
+        "word": "Lexicon",
+        "part_of_speech": "Noun",
+        "definition": "The vocabulary of a person, language, or branch of knowledge.",
+        "hindi_meaning": "शब्दकोश, शब्दावली",
+        "mnemonic": "Lexicon sounds like 'lexi-con,' indicating a collection or vocabulary of words.",
+        "visual_representation": "Imagine a thick dictionary filled with words and definitions, symbolizing a lexicon.",
+        "example_sentence": "The scientific lexicon includes many terms that are unfamiliar to the general public."
+    },
+    {
+        "word": "Miserly",
+        "part_of_speech": "Adjective",
+        "definition": "Of or characteristic of a miser; hoarding wealth and spending as little money as possible.",
+        "hindi_meaning": "कंजूस, कृपण",
+        "mnemonic": "Miserly sounds like 'miser-ly,' indicating someone who is stingy or tight-fisted with money.",
+        "visual_representation": "Picture someone counting their money carefully and refusing to spend it, symbolizing miserliness.",
+        "example_sentence": "His miserly attitude prevented him from enjoying life’s pleasures."
+    },
+    {
+        "word": "Orientation",
+        "part_of_speech": "Noun",
+        "definition": "The determination of the relative position of something or someone; training or introduction to a new environment or situation.",
+        "hindi_meaning": "अभिविन्यास, दिशा निर्धारण",
+        "mnemonic": "Orientation sounds like 'orient-a-tion,' as if getting someone oriented or familiarized with something new.",
+        "visual_representation": "Picture new employees being introduced to their workplace, symbolizing orientation.",
+        "example_sentence": "The company held an orientation session for all new hires."
+    },
+    {
+        "word": "Perturb",
+        "part_of_speech": "Verb",
+        "definition": "To make someone anxious or unsettled.",
+        "hindi_meaning": "परेशान करना, चिंतित करना",
+        "mnemonic": "Perturb sounds like 'perturb-disturb,' indicating causing someone to feel disturbed or unsettled.",
+        "visual_representation": "Imagine someone being startled by unexpected news, symbolizing being perturbed.",
+        "example_sentence": "The sudden change in plans perturbed her, as she preferred a more predictable schedule."
+    },
+    {
+        "word": "Repast",
+        "part_of_speech": "Noun",
+        "definition": "A meal.",
+        "hindi_meaning": "भोजन, आहार",
+        "mnemonic": "Repast sounds like 're-past,' as if referring to food that was part of the past or a meal.",
+        "visual_representation": "Picture a large family gathering around a table for a hearty meal, symbolizing a repast.",
+        "example_sentence": "After the long journey, they enjoyed a delicious repast at the inn."
+    },
+    {
+        "word": "Sinecure",
+        "part_of_speech": "Noun",
+        "definition": "A position requiring little or no work but giving the holder status or financial benefit.",
+        "hindi_meaning": "बिना काम का लाभकारी पद",
+        "mnemonic": "Sinecure sounds like 'sign-secure,' as if signing a secure job that requires little effort.",
+        "visual_representation": "Picture someone sitting comfortably at a desk, receiving pay without doing much work, symbolizing a sinecure.",
+        "example_sentence": "He was criticized for holding a sinecure while others did the actual work."
+    },
+    {
+        "word": "Tremulous",
+        "part_of_speech": "Adjective",
+        "definition": "Shaking or quivering slightly; timid or nervous.",
+        "hindi_meaning": "काँपता हुआ, डरपोक",
+        "mnemonic": "Tremulous sounds like 'tremble-us,' indicating someone who is trembling or nervous.",
+        "visual_representation": "Picture someone’s hands shaking as they hold a piece of paper, symbolizing being tremulous.",
+        "example_sentence": "Her voice was tremulous as she addressed the large audience for the first time."
+    },
+    {
+        "word": "Visceral",
+        "part_of_speech": "Adjective",
+        "definition": "Relating to deep inward feelings rather than to the intellect; instinctive.",
+        "hindi_meaning": "भावनात्मक, आंतरिक",
+        "mnemonic": "Visceral sounds like 'vice-r-al,' indicating something deeply felt, as if coming from within.",
+        "visual_representation": "Imagine someone reacting instinctively to a situation, with deep emotional intensity, symbolizing a visceral response.",
+        "example_sentence": "His visceral reaction to the news was one of shock and disbelief."
+    }
+]

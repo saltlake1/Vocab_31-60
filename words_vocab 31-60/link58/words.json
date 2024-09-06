@@ -1,0 +1,155 @@
+[
+    {
+        "word": "Aghast",
+        "part_of_speech": "Adjective",
+        "definition": "Filled with horror or shock.",
+        "hindi_meaning": "स्तब्ध, भयभीत",
+        "mnemonic": "Aghast sounds like 'a-ghost,' indicating the feeling of being shocked as if seeing a ghost.",
+        "visual_representation": "Picture someone with a shocked expression, as if they've just witnessed something horrifying, symbolizing being aghast.",
+        "example_sentence": "She was aghast at the news of the tragic accident."
+    },
+    {
+        "word": "Braggart",
+        "part_of_speech": "Noun",
+        "definition": "A person who boasts about achievements or possessions.",
+        "hindi_meaning": "डींग मारने वाला, घमंडी",
+        "mnemonic": "Braggart sounds like 'brag-art,' indicating someone who makes an art of bragging.",
+        "visual_representation": "Imagine someone constantly talking about their achievements, showing off to everyone, symbolizing a braggart.",
+        "example_sentence": "The braggart couldn’t stop talking about his new car."
+    },
+    {
+        "word": "Cipher",
+        "part_of_speech": "Noun",
+        "definition": "A secret or disguised way of writing; a code; a person or thing of no importance or value.",
+        "hindi_meaning": "गुप्त लेखन, शून्य; महत्वहीन व्यक्ति",
+        "mnemonic": "Cipher sounds like 'cypher,' indicating a secret code or a zero (as in value).",
+        "visual_representation": "Picture a coded message that can only be understood with a key, symbolizing a cipher.",
+        "example_sentence": "The spy used a cipher to send messages that could only be decoded by his allies."
+    },
+    {
+        "word": "Deterrent",
+        "part_of_speech": "Noun / Adjective",
+        "definition": "A thing that discourages or is intended to discourage someone from doing something; able to deter.",
+        "hindi_meaning": "निरोधक, रोकने वाला",
+        "mnemonic": "Deterrent sounds like 'deter-rent,' indicating something that prevents or discourages an action.",
+        "visual_representation": "Picture a 'No Trespassing' sign that deters people from entering, symbolizing a deterrent.",
+        "example_sentence": "The high fines serve as a deterrent against speeding."
+    },
+    {
+        "word": "Equinox",
+        "part_of_speech": "Noun",
+        "definition": "The time or date (twice each year) at which the sun crosses the celestial equator, when day and night are of approximately equal length.",
+        "hindi_meaning": "विषुव, दिन और रात की बराबरी का समय",
+        "mnemonic": "Equinox sounds like 'equal-nox,' indicating equal day and night.",
+        "visual_representation": "Picture the sun directly over the equator, with equal light on both hemispheres, symbolizing the equinox.",
+        "example_sentence": "The spring equinox marks the start of longer days and warmer weather."
+    },
+    {
+        "word": "Founder",
+        "part_of_speech": "Verb / Noun",
+        "definition": "To fail or break down, typically as a result of a particular problem or setback; a person who establishes an institution or settlement.",
+        "hindi_meaning": "असफल होना, संस्थापक",
+        "mnemonic": "Founder sounds like 'foul-der,' indicating someone who fails or falters; or one who founds something.",
+        "visual_representation": "Imagine a ship sinking after hitting a rock, symbolizing a plan or project that founders.",
+        "example_sentence": "The project foundered due to a lack of funding."
+    },
+    {
+        "word": "Germinate",
+        "part_of_speech": "Verb",
+        "definition": "(Of a seed or spore) begin to grow and put out shoots after a period of dormancy.",
+        "hindi_meaning": "अंकुरित होना, बढ़ना शुरू करना",
+        "mnemonic": "Germinate sounds like 'germ-i-nate,' indicating the initial growth of a seed or idea.",
+        "visual_representation": "Picture a seed sprouting into a small plant, symbolizing germination.",
+        "example_sentence": "The seeds began to germinate after a few days in the soil."
+    },
+    {
+        "word": "Hazardous",
+        "part_of_speech": "Adjective",
+        "definition": "Risky; dangerous.",
+        "hindi_meaning": "खतरनाक, जोखिमपूर्ण",
+        "mnemonic": "Hazardous sounds like 'hazard-us,' indicating something full of hazards or risks.",
+        "visual_representation": "Imagine a warning sign for toxic chemicals, symbolizing something hazardous.",
+        "example_sentence": "Handling hazardous materials requires special safety equipment."
+    },
+    {
+        "word": "Inculcate",
+        "part_of_speech": "Verb",
+        "definition": "To instill an idea, attitude, or habit by persistent instruction.",
+        "hindi_meaning": "सिखाना, मन में बिठाना",
+        "mnemonic": "Inculcate sounds like 'in-cult-ate,' as in cultivating or planting ideas in someone's mind.",
+        "visual_representation": "Picture a teacher repeatedly emphasizing a key concept until the students remember it, symbolizing inculcation.",
+        "example_sentence": "The coach tried to inculcate a sense of discipline in the team."
+    },
+    {
+        "word": "Lucrative",
+        "part_of_speech": "Adjective",
+        "definition": "Producing a great deal of profit.",
+        "hindi_meaning": "लाभदायक, मुनाफे वाला",
+        "mnemonic": "Lucrative sounds like 'loot-creative,' indicating something that brings in a lot of money.",
+        "visual_representation": "Picture a person holding a stack of money with a satisfied expression, symbolizing something lucrative.",
+        "example_sentence": "The tech industry offers many lucrative career opportunities."
+    },
+    {
+        "word": "Mode",
+        "part_of_speech": "Noun",
+        "definition": "A way or manner in which something occurs or is experienced, expressed, or done.",
+        "hindi_meaning": "तरीका, ढंग",
+        "mnemonic": "Mode sounds like 'mood,' indicating a way or style of doing something.",
+        "visual_representation": "Picture a device with different settings, each representing a different mode of operation.",
+        "example_sentence": "The computer can operate in several different modes, depending on the task."
+    },
+    {
+        "word": "Offhand",
+        "part_of_speech": "Adjective / Adverb",
+        "definition": "Ungraciously or offensively nonchalant or cool in manner; without previous thought or consideration.",
+        "hindi_meaning": "बेपरवाह, बिना सोचे समझे",
+        "mnemonic": "Offhand sounds like 'off-hand,' indicating a casual or careless manner, as if done without effort.",
+        "visual_representation": "Picture someone giving a quick, careless response to a serious question, symbolizing offhand behavior.",
+        "example_sentence": "His offhand remarks during the meeting upset several colleagues."
+    },
+    {
+        "word": "Philology",
+        "part_of_speech": "Noun",
+        "definition": "The study of language in written historical sources; the study of literary texts and of written records, the establishment of their authenticity and their original form, and the determination of their meaning.",
+        "hindi_meaning": "भाषाविज्ञान, भाषा का अध्ययन",
+        "mnemonic": "Philology sounds like 'fill-logy,' as in filling in the history and meaning of language.",
+        "visual_representation": "Picture an old manuscript being carefully studied and analyzed by a scholar, symbolizing philology.",
+        "example_sentence": "His deep interest in ancient languages led him to study philology."
+    },
+    {
+        "word": "Repress",
+               "part_of_speech": "Verb",
+        "definition": "To subdue by force; to restrain or prevent (the expression of a feeling or idea).",
+        "hindi_meaning": "दबाना, रोकना",
+        "mnemonic": "Repress sounds like 're-press,' as if pushing down or holding back something repeatedly.",
+        "visual_representation": "Imagine someone pushing down a lid on a boiling pot to prevent it from overflowing, symbolizing repression.",
+        "example_sentence": "She tried to repress her anger during the meeting, but it showed on her face."
+    },
+    {
+        "word": "Slag",
+        "part_of_speech": "Noun",
+        "definition": "Stony waste matter separated from metals during the smelting or refining of ore.",
+        "hindi_meaning": "धातु की अशुद्धियाँ, धातुमल",
+        "mnemonic": "Slag sounds like 'slag-off,' indicating the unwanted byproduct that is discarded.",
+        "visual_representation": "Picture a heap of dark, rocky material left over after metal has been extracted, symbolizing slag.",
+        "example_sentence": "The steel mill produced large quantities of slag, which were then disposed of."
+    },
+    {
+        "word": "Truism",
+        "part_of_speech": "Noun",
+        "definition": "A statement that is obviously true and says nothing new or interesting.",
+        "hindi_meaning": "सर्वविदित सत्य, साधारण सत्य",
+        "mnemonic": "Truism sounds like 'true-ism,' indicating a truth that is so obvious it hardly needs to be said.",
+        "visual_representation": "Picture someone stating that 'the sky is blue,' which everyone already knows, symbolizing a truism.",
+        "example_sentence": "It’s a truism that hard work leads to success, but it’s often overlooked in practice."
+    },
+    {
+        "word": "Verbalize",
+        "part_of_speech": "Verb",
+        "definition": "To express ideas or feelings in words, especially by speaking out loud.",
+        "hindi_meaning": "व्यक्त करना, शब्दों में व्यक्त करना",
+        "mnemonic": "Verbalize sounds like 'verb-ize,' indicating putting thoughts or feelings into words (verbs).",
+        "visual_representation": "Picture someone speaking out loud what they are thinking, symbolizing verbalization.",
+        "example_sentence": "She found it difficult to verbalize her emotions during the therapy session."
+    }
+]

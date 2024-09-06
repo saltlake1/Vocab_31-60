@@ -1,0 +1,155 @@
+[
+    {
+        "word": "Agglomeration",
+        "part_of_speech": "Noun",
+        "definition": "A mass or collection of things; an assemblage.",
+        "hindi_meaning": "जमाव, समूह",
+        "mnemonic": "Agglomeration sounds like 'a-glom-eration,' indicating things glomming together into a cluster or group.",
+        "visual_representation": "Picture a pile of various objects lumped together, symbolizing agglomeration.",
+        "example_sentence": "The city was an agglomeration of different architectural styles and cultures."
+    },
+    {
+        "word": "Bourgeois",
+        "part_of_speech": "Adjective / Noun",
+        "definition": "Of or characteristic of the middle class, typically with reference to its perceived materialistic values or conventional attitudes; a person belonging to the middle class.",
+        "hindi_meaning": "मध्यम वर्ग का, मध्यमवर्गीय",
+        "mnemonic": "Bourgeois sounds like 'boor-joy,' indicating someone who is concerned with material wealth and social status, typical of the middle class.",
+        "visual_representation": "Imagine a person living in a comfortable suburban home, concerned with appearances and social status, symbolizing bourgeois values.",
+        "example_sentence": "The film critiqued the bourgeois lifestyle and its obsession with material wealth."
+    },
+    {
+        "word": "Chronic",
+        "part_of_speech": "Adjective",
+        "definition": "Persisting for a long time or constantly recurring, especially of an illness or problem.",
+        "hindi_meaning": "दीर्घकालिक, पुराना",
+        "mnemonic": "Chronic sounds like 'chron-ic,' as in relating to time (chronos), indicating something that lasts a long time.",
+        "visual_representation": "Picture someone suffering from a long-term illness that keeps coming back, symbolizing something chronic.",
+        "example_sentence": "He suffers from chronic back pain that has plagued him for years."
+    },
+    {
+        "word": "Desultory",
+        "part_of_speech": "Adjective",
+        "definition": "Lacking a plan, purpose, or enthusiasm; occurring randomly or occasionally.",
+        "hindi_meaning": "असंगत, बेमन",
+        "mnemonic": "Desultory sounds like 'des-ul-tory,' as in moving around without direction or jumping from one thing to another.",
+        "visual_representation": "Imagine someone flipping through TV channels without finding anything interesting, symbolizing desultory behavior.",
+        "example_sentence": "Their conversation was desultory, jumping from one topic to another with no clear focus."
+    },
+    {
+        "word": "Equanimity",
+        "part_of_speech": "Noun",
+        "definition": "Mental calmness, composure, and evenness of temper, especially in a difficult situation.",
+        "hindi_meaning": "समानता, संतुलन",
+        "mnemonic": "Equanimity sounds like 'equal-animosity,' indicating remaining calm and balanced, without losing temper.",
+        "visual_representation": "Picture someone remaining calm and composed while facing a stressful situation, symbolizing equanimity.",
+        "example_sentence": "She maintained her equanimity even during the most challenging moments of the trial."
+    },
+    {
+        "word": "Fortitude",
+        "part_of_speech": "Noun",
+        "definition": "Courage in pain or adversity.",
+        "hindi_meaning": "धैर्य, साहस",
+        "mnemonic": "Fortitude sounds like 'fort-i-tude,' as if someone has the strength of a fort to endure hardships.",
+        "visual_representation": "Imagine a soldier standing strong in the face of danger, symbolizing fortitude.",
+        "example_sentence": "The survivors showed incredible fortitude during their time of crisis."
+    },
+    {
+        "word": "Genealogy",
+        "part_of_speech": "Noun",
+        "definition": "A line of descent traced continuously from an ancestor; the study of family history.",
+        "hindi_meaning": "वंशावली, वंश का अध्ययन",
+        "mnemonic": "Genealogy sounds like 'gene-alogy,' indicating the study or tracing of family genes or lineage.",
+        "visual_representation": "Picture a family tree chart showing generations of ancestors, symbolizing genealogy.",
+        "example_sentence": "She spent years researching her genealogy and discovered that she was related to a famous historical figure."
+    },
+    {
+        "word": "Headlong",
+        "part_of_speech": "Adjective / Adverb",
+        "definition": "With the head foremost; in a rush, with reckless haste.",
+        "hindi_meaning": "तेजी से, अंधाधुंध",
+        "mnemonic": "Headlong sounds like 'head-long,' as in diving headfirst into something without thinking.",
+        "visual_representation": "Imagine someone running full speed and diving headfirst into a pool, symbolizing headlong behavior.",
+        "example_sentence": "He rushed headlong into the decision without considering the consequences."
+    },
+    {
+        "word": "Increment",
+        "part_of_speech": "Noun",
+        "definition": "An increase or addition, especially one of a series on a fixed scale.",
+        "hindi_meaning": "वृद्ध‍ि, वृद्धि का क्रम",
+        "mnemonic": "Increment sounds like 'increase-ment,' indicating a small or gradual increase.",
+        "visual_representation": "Picture a graph showing a steady rise, with each step representing an increment.",
+        "example_sentence": "The company offered its employees a yearly increment based on their performance."
+    },
+    {
+        "word": "Loath",
+        "part_of_speech": "Adjective",
+        "definition": "Reluctant; unwilling.",
+        "hindi_meaning": "अनिच्छुक, अप्रसन्न",
+        "mnemonic": "Loath sounds like 'load-th,' as in feeling weighed down by something you don’t want to do.",
+        "visual_representation": "Imagine someone hesitating to jump into cold water, symbolizing being loath to do something.",
+        "example_sentence": "She was loath to admit her mistake, even though it was obvious to everyone."
+    },
+    {
+        "word": "Mitigate",
+        "part_of_speech": "Verb",
+        "definition": "To make less severe, serious, or painful.",
+        "hindi_meaning": "कम करना, नरम करना",
+        "mnemonic": "Mitigate sounds like 'mini-gate,' as if making something minor or less severe.",
+        "visual_representation": "Picture someone placing sandbags to reduce the impact of a flood, symbolizing mitigating damage.",
+        "example_sentence": "The doctor gave him painkillers to mitigate his suffering."
+    },
+    {
+        "word": "Objective",
+        "part_of_speech": "Adjective / Noun",
+        "definition": "Not influenced by personal feelings or opinions in considering and representing facts; a goal or aim.",
+        "hindi_meaning": "वस्तुनिष्ठ, उद्देश्य",
+        "mnemonic": "Objective sounds like 'object-tive,' indicating focusing on the object or goal without bias.",
+        "visual_representation": "Picture a judge weighing evidence without personal feelings, symbolizing objectivity.",
+        "example_sentence": "The reporter tried to remain objective despite the emotional nature of the story."
+    },
+    {
+        "word": "Phenomena",
+        "part_of_speech": "Noun (plural of phenomenon)",
+        "definition": "Observable events, especially those that are unusual or difficult to understand.",
+        "hindi_meaning": "घटनाएँ, चमत्कार",
+        "mnemonic": "Phenomena sounds like 'phenomenal,' indicating something extraordinary or remarkable that can be observed.",
+        "visual_representation": "Picture a natural wonder like the Northern Lights, symbolizing a phenomenon.",
+        "example_sentence": "The scientists studied various phenomena to understand how the universe works."
+    },
+    {
+        "word": "Replica",
+        "part_of_speech": "Noun",
+        "definition": "An exact copy or model of something, especially one on a smaller scale.",
+        "hindi_meaning": "प्रतिकृति, नक़ल",
+        "mnemonic": "Replica sounds like 're-plica,' as in re-creating or copying something exactly.",
+        "visual_representation": "Imagine a small-scale model of a famous building, symbolizing a replica.",
+        "example_sentence": "The museum displayed a replica of the ancient artifact, as the original was too fragile."
+    },
+    {
+        "word": "Skinflint",
+        "part_of_speech": "Noun",
+        "definition": "A person who spends as little money as possible; a miser.",
+        "hindi_meaning": "कंजूस, कृपण",
+        "mnemonic": "Skinflint sounds like 'skin-thin-flint,' indicating someone who is so stingy that they save every penny.",
+        "visual_representation": "Picture a person counting every coin and refusing to spend money, symbolizing a skinflint.",
+        "example_sentence": "The skinflint refused to donate even a small amount to charity."
+    },
+    {
+        "word": "Trite",
+        "part_of_speech": "Adjective",
+        "definition": "Overused and consequently of little import; lacking originality or freshness.",
+        "hindi_meaning": "घिसा-पिटा, साधारण",
+        "mnemonic": "Trite sounds like 'try-t,' indicating something that’s been tried too many times and has become stale.",
+        "visual_representation": "Picture a worn-out cliché that everyone has heard before, symbolizing triteness.",
+        "example_sentence": "The speech was full of trite phrases and lacked originality."
+    },
+    {
+        "word": "Validate",
+        "part_of_speech": "Verb",
+        "definition": "To check or prove the validity or accuracy of something; to confirm or approve.",
+        "hindi_meaning": "मान्यता देना, पुष्टि करना",
+        "mnemonic": "Validate sounds like 'value-date,' indicating confirming the value or correctness of something.",
+        "visual_representation": "Picture a stamp of approval on a document, symbolizing validation.",
+        "example_sentence": "The scientist’s research was validated by peer review and further experiments."
+    }
+]

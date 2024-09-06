@@ -1,0 +1,182 @@
+[
+    {
+        "word": "Adorn",
+        "part_of_speech": "Verb",
+        "definition": "To decorate or add beauty to something.",
+        "hindi_meaning": "सजाना, अलंकृत करना",
+        "mnemonic": "Adorn sounds like 'add-on,' indicating adding something decorative to enhance beauty.",
+        "visual_representation": "Picture a Christmas tree adorned with lights and ornaments, symbolizing decoration.",
+        "example_sentence": "She adorned the room with flowers for the party."
+    },
+    {
+        "word": "Blasphemy",
+        "part_of_speech": "Noun",
+        "definition": "The act or offense of speaking sacrilegiously about God or sacred things; profane talk.",
+        "hindi_meaning": "ईशनिंदा, धर्मविरोधी कथन",
+        "mnemonic": "Blasphemy sounds like 'blast for me,' indicating something explosive or offensive against religion.",
+        "visual_representation": "Imagine someone publicly making disrespectful remarks about a sacred figure, symbolizing blasphemy.",
+        "example_sentence": "The speaker was accused of blasphemy for his controversial remarks about the church."
+    },
+    {
+        "word": "Chaff",
+        "part_of_speech": "Noun / Verb",
+        "definition": "The husks of corn or other seeds separated by winnowing or threshing; worthless things or trash; to tease or mock.",
+        "hindi_meaning": "भूसी, व्यर्थ वस्तु",
+        "mnemonic": "Chaff sounds like 'half,' indicating the part that is thrown away or not valuable.",
+        "visual_representation": "Picture the husks of wheat being blown away by the wind during threshing, symbolizing chaff.",
+        "example_sentence": "The farmer separated the wheat from the chaff."
+    },
+    {
+        "word": "Deplete",
+        "part_of_speech": "Verb",
+        "definition": "To use up the supply or resources of something.",
+        "hindi_meaning": "समाप्त करना, घटाना",
+        "mnemonic": "Deplete sounds like 'delete,' indicating the reduction or use up of resources.",
+        "visual_representation": "Picture a gas tank needle moving towards empty, symbolizing depletion.",
+        "example_sentence": "The long journey depleted our supply of food and water."
+    },
+    {
+        "word": "Entail",
+        "part_of_speech": "Verb",
+        "definition": "To involve something as a necessary or inevitable part or consequence.",
+        "hindi_meaning": "शामिल होना, आवश्यक करना",
+        "mnemonic": "Entail sounds like 'in tail,' as if something is following as a necessary part.",
+        "visual_representation": "Imagine a contract with many terms and conditions that entail obligations, symbolizing involvement.",
+        "example_sentence": "The project will entail a lot of research and hard work."
+    },
+    {
+        "word": "Fluster",
+        "part_of_speech": "Verb / Noun",
+        "definition": "To make someone agitated or confused; a state of agitation or confusion.",
+        "hindi_meaning": "घबराहट, उलझन",
+        "mnemonic": "Fluster sounds like 'flutter,' as in being nervous or confused like a bird fluttering around.",
+        "visual_representation": "Picture someone rushing around in a panic, not knowing what to do next, symbolizing fluster.",
+        "example_sentence": "The unexpected question flustered the speaker, making him lose his train of thought."
+    },
+    {
+        "word": "Grisly",
+        "part_of_speech": "Adjective",
+        "definition": "Causing horror or disgust.",
+        "hindi_meaning": "भयानक, डरावना",
+        "mnemonic": "Grisly sounds like 'grizzly,' as in a grizzly scene that is horrific and terrifying.",
+        "visual_representation": "Imagine a horror movie scene filled with blood and gore, symbolizing something grisly.",
+        "example_sentence": "The police arrived at the scene of the grisly crime."
+    },
+    {
+        "word": "Host",
+        "part_of_speech": "Noun / Verb",
+        "definition": "A person who receives or entertains guests; an animal or plant on or in which a parasite or commensal organism lives; to act as host at (an event).",
+        "hindi_meaning": "मेज़बान, परजीवी का वाहक",
+        "mnemonic": "Host sounds like 'toast,' as in toasting to welcome guests.",
+        "visual_representation": "Picture a warm, welcoming host greeting guests at a dinner party.",
+        "example_sentence": "The host made sure all the guests were comfortable."
+    },
+    {
+        "word": "Incendiary",
+        "part_of_speech": "Adjective / Noun",
+        "definition": "Designed to cause fires; tending to stir up conflict; a person who starts fires, especially in a military context.",
+        "hindi_meaning": "आग लगाने वाला, भड़काने वाला",
+        "mnemonic": "Incendiary sounds like 'incense diary,' as if something is set to ignite or provoke.",
+        "visual_representation": "Picture a firebomb exploding and causing chaos, symbolizing something incendiary.",
+        "example_sentence": "The incendiary speech incited the crowd to riot."
+    },
+    {
+        "word": "Lurid",
+        "part_of_speech": "Adjective",
+        "definition": "Very vivid in color, especially so as to create an unpleasantly harsh or unnatural effect; presented in vividly shocking or sensational terms.",
+        "hindi_meaning": "भड़कीला, सनसनीखेज",
+        "mnemonic": "Lurid sounds like 'lure it,' as in something that is shockingly attractive or repulsive.",
+        "visual_representation": "Picture a tabloid newspaper with a lurid, sensational headline.",
+        "example_sentence": "The lurid details of the crime were splashed across the front pages of the newspapers."
+    },
+    {
+        "word": "Migratory",
+        "part_of_speech": "Adjective",
+        "definition": "Denoting an animal that migrates; moving from one place to another at different times of the year.",
+        "hindi_meaning": "प्रवासी, स्थानांतरित होने वाला",
+        "mnemonic": "Migratory sounds like 'migrate story,' indicating animals or people who move from place to place.",
+        "visual_representation": "Picture a flock of birds flying south for the winter, symbolizing migratory behavior.",
+        "example_sentence": "The migratory patterns of birds change with the seasons."
+    },
+    {
+        "word": "Neophyte",
+        "part_of_speech": "Noun",
+        "definition": "A person who is new to a subject, skill, or belief.",
+        "hindi_meaning": "नौसिखिया, नवागंतुक",
+        "mnemonic": "Neophyte sounds like 'new-fight,' as if someone is new to a field and just beginning to fight or struggle.",
+        "visual_representation": "Imagine a beginner struggling to learn a new skill, symbolizing a neophyte.",
+        "example_sentence": "As a neophyte to the sport, she needed a lot of practice."
+    },
+    {
+        "word": "Obligatory",
+        "part_of_speech": "Adjective",
+        "definition": "Required by a legal, moral, or other rule; compulsory.",
+        "hindi_meaning": "अनिवार्य, आवश्यक",
+        "mnemonic": "Obligatory sounds like 'obliged,' indicating something that one is required or bound to do.",
+        "visual_representation": "Picture a sign that says 'Mandatory,' symbolizing something obligatory.",
+        "example_sentence": "Attending the meeting was obligatory for all staff members."
+    },
+    {
+        "word": "Perfunctory",
+        "part_of_speech": "Adjective",
+        "definition": "(Of an action or gesture) carried out with a minimum of effort or reflection.",
+        "hindi_meaning": "औपचारिक, बिना दिलचस्पी के",
+        "mnemonic": "Perfunctory sounds like 'perform factory,' indicating a mechanical or routine action done without much thought.",
+        "visual_representation": "Picture someone shaking hands without looking, in a mechanical, uninterested way, symbolizing a perfunctory gesture.",
+        "example_sentence": "His perfunctory response indicated that he wasn’t really listening."
+    },
+    {
+        "word": "Reminiscence",
+        "part_of_speech": "Noun",
+        "definition": "A story told about a past event remembered by the narrator; the enjoyable recollection of past events.",
+        "hindi_meaning": "स्मरण, यादगार",
+        "mnemonic": "Reminiscence sounds like 're-mini-scene,' as in replaying a small scene from the past in your mind.",
+        "visual_representation": "Picture someone smiling while looking at an old photo, lost in fond memories, symbolizing reminiscence.",
+        "example_sentence": "The elderly man’s reminiscence of his childhood brought a smile to his face."
+    },
+    {
+        "word": "Shambles",
+        "part_of_speech": "Noun",
+        "definition": "A state of total disorder.",
+        "hindi_meaning": "अव्यवस्था, गड़बड़",
+        "mnemonic": "Shambles sounds like 'sham-balls,' as if a situation is a total mess or chaos.",
+        "visual_representation": "Imagine a room with papers and objects scattered everywhere, symbolizing a shambles.",
+        "example_sentence": "After the party, the house was left in a complete shambles."
+    },
+    {
+        "word": "Transcribe",
+        "part_of_speech": "Verb",
+        "definition": "To put (thoughts, speech, or data) into written or printed form.",
+        "hindi_meaning": "लिखना, प्रतिलिपि बनाना",
+        "mnemonic": "Transcribe sounds like 'transfer scribble,' indicating transferring spoken or thought words into writing.",
+        "visual_representation": "Picture someone typing out a recorded conversation, symbolizing transcription.",
+        "example_sentence": "The secretary transcribed the minutes of the meeting for the official record."
+    },
+    {
+        "word": "Unerringly",
+        "part_of_speech": "Adverb",
+        "definition": "Without making any mistakes; perfectly accurate.",
+        "hindi_meaning": "बिना त्रुटि के, अचूक",
+        "mnemonic": "Unerringly sounds like 'un-error-ring,' indicating something done without errors or mistakes.",
+        "visual_representation": "Picture an archer hitting the bullseye every time, symbolizing unerring accuracy.",
+        "example_sentence": "She unerringly predicted the outcome of the election."
+    },
+    {
+        "word": "Vampire",
+        "part_of_speech": "Noun",
+        "definition": "A mythical being who subsists by feeding on the vital essence (usually blood) of the living.",
+        "hindi_meaning": "पिशाच, राक्षस",
+        "mnemonic": "Vampire sounds like 'vamp-pyre,' indicating a dark, blood-sucking creature of the night.",
+        "visual_representation": "Picture a vampire with sharp fangs and a cape, symbolizing the mythical creature.",
+        "example_sentence": "The legend of the vampire has been popularized by countless books and movies."
+    },
+    {
+        "word": "Waft",
+        "part_of_speech": "Verb / Noun",
+        "definition": "To pass or cause to pass gently through the air; a gentle movement of air.",
+        "hindi_meaning": "हवा में बहना, सुगंध का झोंका",
+        "mnemonic": "Waft sounds like 'raft,' gently floating through the air or water.",
+        "visual_representation": "Imagine the smell of fresh flowers gently wafting through an open window.",
+        "example_sentence": "The scent of freshly baked bread wafted through the kitchen."
+    }
+]

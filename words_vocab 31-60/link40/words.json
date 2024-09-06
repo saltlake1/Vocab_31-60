@@ -1,0 +1,182 @@
+[
+    {
+        "word": "Adhere",
+        "part_of_speech": "Verb",
+        "definition": "To stick fast to a surface or substance; to believe in and follow the practices of something.",
+        "hindi_meaning": "पालन करना, चिपकना",
+        "mnemonic": "Adhere sounds like 'add here,' as if something is sticking or attaching here.",
+        "visual_representation": "Picture glue making a piece of paper stick firmly to a surface, symbolizing adherence.",
+        "example_sentence": "You must adhere to the rules if you want to stay in the competition."
+    },
+    {
+        "word": "Bizarre",
+        "part_of_speech": "Adjective",
+        "definition": "Very strange or unusual, especially so as to cause interest or amusement.",
+        "hindi_meaning": "विचित्र, अजीब",
+        "mnemonic": "Bizarre sounds like 'bazaar,' where you might find unusual or strange things.",
+        "visual_representation": "Imagine a person wearing mismatched clothes with odd accessories, symbolizing something bizarre.",
+        "example_sentence": "The movie had a bizarre plot that left the audience confused."
+    },
+    {
+        "word": "Cerebration",
+        "part_of_speech": "Noun",
+        "definition": "The action of thinking; thought.",
+        "hindi_meaning": "मस्तिष्कीय क्रिया, चिंतन",
+        "mnemonic": "Cerebration sounds like 'cerebral,' which is related to the brain, indicating thinking.",
+        "visual_representation": "Picture someone deep in thought, with their brain working actively, symbolizing cerebration.",
+        "example_sentence": "After much cerebration, she finally solved the complex problem."
+    },
+    {
+        "word": "Denigrate",
+        "part_of_speech": "Verb",
+        "definition": "To criticize unfairly; to disparage.",
+        "hindi_meaning": "बदनाम करना, निंदा करना",
+        "mnemonic": "Denigrate sounds like 'deny great,' as if you’re denying someone’s greatness by criticizing them unfairly.",
+        "visual_representation": "Imagine someone speaking badly about another person, trying to tarnish their reputation, symbolizing denigration.",
+        "example_sentence": "He tried to denigrate his opponent’s achievements during the debate."
+    },
+    {
+        "word": "Enmity",
+        "part_of_speech": "Noun",
+        "definition": "The state or feeling of being actively opposed or hostile to someone or something.",
+        "hindi_meaning": "दुश्मनी, वैर",
+        "mnemonic": "Enmity sounds like 'enemy,' indicating hostility or opposition.",
+        "visual_representation": "Picture two people glaring at each other with intense dislike, symbolizing enmity.",
+        "example_sentence": "There was a long-standing enmity between the two families."
+    },
+    {
+        "word": "Flounder",
+        "part_of_speech": "Verb",
+        "definition": "To struggle or stagger helplessly or clumsily in water or mud; to struggle mentally or show great confusion.",
+        "hindi_meaning": "तड़पना, असमंजस में पड़ना",
+        "mnemonic": "Flounder sounds like 'found her,' as if someone is struggling to find their way.",
+        "visual_representation": "Imagine someone trying to walk through deep mud, struggling with every step, symbolizing floundering.",
+        "example_sentence": "The new employee floundered in her first week, unsure of her responsibilities."
+    },
+    {
+        "word": "Gratuitous",
+        "part_of_speech": "Adjective",
+        "definition": "Uncalled for; lacking good reason; unwarranted; given or done free of charge.",
+        "hindi_meaning": "अनावश्यक, निशुल्क",
+        "mnemonic": "Gratuitous sounds like 'gratuity,' which is a tip given freely, indicating something given without necessity.",
+        "visual_representation": "Picture someone offering an unnecessary apology or action, symbolizing something gratuitous.",
+        "example_sentence": "The movie was criticized for its gratuitous violence."
+    },
+    {
+        "word": "Hiatus",
+        "part_of_speech": "Noun",
+        "definition": "A pause or gap in a sequence, series, or process.",
+        "hindi_meaning": "अंतराल, विराम",
+        "mnemonic": "Hiatus sounds like 'hide us,' as if something is hidden or paused temporarily.",
+        "visual_representation": "Imagine a long break in a TV show’s season, symbolizing a hiatus.",
+        "example_sentence": "The band went on a hiatus for two years before reuniting for a new album."
+    },
+    {
+        "word": "Inaugurate",
+        "part_of_speech": "Verb",
+        "definition": "To begin or introduce a system, policy, or period; to formally admit someone to office.",
+        "hindi_meaning": "उद्घाटन करना, आरंभ करना",
+        "mnemonic": "Inaugurate sounds like 'in augur,' indicating the beginning of something new.",
+        "visual_representation": "Picture a president being sworn into office during an inauguration ceremony, symbolizing inauguration.",
+        "example_sentence": "The new museum was inaugurated by the mayor."
+    },
+    {
+        "word": "Lumber",
+        "part_of_speech": "Verb / Noun",
+        "definition": "To move in a slow, heavy, awkward way; timber that has been sawed into boards or planks.",
+        "hindi_meaning": "भारी कदमों से चलना, लकड़ी",
+        "mnemonic": "Lumber sounds like 'log-umber,' indicating logs or wood, and moving heavily like carrying logs.",
+        "visual_representation": "Imagine a large, heavy person moving slowly and awkwardly, symbolizing lumbering.",
+        "example_sentence": "The bear lumbered through the forest in search of food."
+    },
+    {
+        "word": "Meticulous",
+        "part_of_speech": "Adjective",
+        "definition": "Showing great attention to detail; very careful and precise.",
+        "hindi_meaning": "सूक्ष्म, बहुत सावधानी से",
+        "mnemonic": "Meticulous sounds like 'me tickle us,' as if paying such close attention that even a tiny tickle is noticed.",
+        "visual_representation": "Picture someone carefully painting a miniature model, ensuring every detail is perfect, symbolizing meticulousness.",
+        "example_sentence": "The artist’s meticulous attention to detail made her paintings stand out."
+    },
+    {
+        "word": "Nuance",
+        "part_of_speech": "Noun",
+        "definition": "A subtle difference in or shade of meaning, expression, or sound.",
+        "hindi_meaning": "सूक्ष्म अंतर, बारीकी",
+        "mnemonic": "Nuance sounds like 'new ants,' indicating tiny details or differences, like the subtle variations in the way ants move.",
+        "visual_representation": "Imagine two similar colors with only a slight difference in shade, symbolizing nuance.",
+        "example_sentence": "The actor’s performance was full of nuances that made the character come alive."
+    },
+    {
+        "word": "Ovation",
+        "part_of_speech": "Noun",
+        "definition": "A sustained and enthusiastic show of appreciation from an audience, especially by means of applause.",
+        "hindi_meaning": "तालियों की गड़गड़ाहट, प्रशंसा",
+        "mnemonic": "Ovation sounds like 'over-ation,' indicating applause that goes on and on.",
+        "visual_representation": "Picture a crowd standing and clapping loudly, giving a performer a standing ovation.",
+        "example_sentence": "The pianist received a standing ovation for her breathtaking performance."
+    },
+    {
+        "word": "Perdition",
+        "part_of_speech": "Noun",
+        "definition": "A state of eternal punishment and damnation into which a sinful person passes after death.",
+        "hindi_meaning": "नाश, विनाश",
+        "mnemonic": "Perdition sounds like 'per-die-tion,' indicating a state of ruin or damnation after death.",
+        "visual_representation": "Picture a dark, fiery pit representing hell or eternal suffering, symbolizing perdition.",
+        "example_sentence": "The villain in the story met his end in perdition after a life of crime."
+    },
+    {
+        "word": "Relevant",
+        "part_of_speech": "Adjective",
+        "definition": "Closely connected or appropriate to the matter at hand.",
+        "hindi_meaning": "प्रासंगिक, संबद्ध",
+        "mnemonic": "Relevant sounds like 'real event,' indicating something that is directly connected to the current situation.",
+        "visual_representation": "Imagine a book that directly addresses a current issue, symbolizing relevance.",
+        "example_sentence": "Please keep your comments relevant to the topic we are discussing."
+    },
+    {
+        "word": "Servile",
+        "part_of_speech": "Adjective",
+        "definition": "Having or showing an excessive willingness to serve or please others; overly submissive.",
+        "hindi_meaning": "गुलाम जैसा, चापलूस",
+        "mnemonic": "Servile sounds like 'serve-ill,' as in serving someone to an unhealthy degree, like a servant.",
+        "visual_representation": "Picture someone bowing excessively to please another person, symbolizing servility.",
+        "example_sentence": "His servile attitude towards his boss annoyed his coworkers."
+    },
+    {
+        "word": "Tract",
+        "part_of_speech": "Noun",
+        "definition": "An area of land, typically a large one; a short pamphlet or booklet, usually on a religious or political subject.",
+        "hindi_meaning": "क्षेत्र, पुस्तिका",
+        "mnemonic": "Tract sounds like 'track,' indicating a large stretch or area of land, or a path of thought.",
+        "visual_representation": "Picture a vast, open field of land, or a small booklet handed out in public, symbolizing a tract.",
+        "example_sentence": "The farmer owned a large tract of land on the outskirts of the city."
+    },
+    {
+        "word": "Unmitigated",
+        "part_of_speech": "Adjective",
+        "definition": "Absolute; not lessened or diminished in any way.",
+        "hindi_meaning": "पूर्ण, बिना कमी के",
+        "mnemonic": "Unmitigated sounds like 'un-mitigate,' as in something that is not reduced or softened.",
+        "visual_representation": "Imagine a disaster that causes total devastation with no relief, symbolizing unmitigated severity.",
+        "example_sentence": "The event was an unmitigated disaster, with everything going wrong from the start."
+    },
+    {
+        "word": "Vortex",
+        "part_of_speech": "Noun",
+        "definition": "A mass of whirling fluid or air, especially a whirlpool or whirlwind.",
+        "hindi_meaning": "बवंडर, भंवर",
+        "mnemonic": "Vortex sounds like 'vortex-tex,' indicating a spiraling motion, like a tornado or whirlpool.",
+        "visual_representation": "Picture a powerful whirlpool pulling everything into its center, symbolizing a vortex.",
+        "example_sentence": "The small boat was caught in the vortex and spun around helplessly."
+    },
+    {
+        "word": "Writhe",
+        "part_of_speech": "Verb",
+        "definition": "To make twisting, squirming movements or contortions of the body, usually in pain or discomfort.",
+        "hindi_meaning": "तड़पना, मरोड़ना",
+        "mnemonic": "Writhe sounds like 'write-th,' as if someone is twisting or squirming like writing cursive letters in pain.",
+        "visual_representation": "Imagine someone twisting and turning on the ground in agony, symbolizing writhing.",
+        "example_sentence": "He writhed in pain after being stung by a jellyfish."
+    }
+]

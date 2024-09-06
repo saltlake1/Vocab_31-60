@@ -1,0 +1,155 @@
+[
+    {
+        "word": "Aggregate",
+        "part_of_speech": "Noun / Verb / Adjective",
+        "definition": "A whole formed by combining several (typically disparate) elements; to form or group into a class or cluster; formed or calculated by the combination of many separate units or items.",
+        "hindi_meaning": "संपूर्ण, संग्रह; एकत्र करना",
+        "mnemonic": "Aggregate sounds like 'add-great,' indicating the total or sum of various elements added together.",
+        "visual_representation": "Picture a pile of stones gathered to form a large mass, symbolizing aggregation.",
+        "example_sentence": "The aggregate score of the team was higher than that of the opponents."
+    },
+    {
+        "word": "Bowdlerize",
+        "part_of_speech": "Verb",
+        "definition": "To remove material that is considered improper or offensive from a text or account, especially with the result that it becomes weaker or less effective.",
+        "hindi_meaning": "अश्लील अंश निकालना, संशोधित करना",
+        "mnemonic": "Bowdlerize sounds like 'boulder-ize,' as if removing or editing out large chunks of content.",
+        "visual_representation": "Picture a book with certain words or sentences blacked out, symbolizing bowdlerization.",
+        "example_sentence": "The novel was bowdlerized for younger readers, removing any inappropriate content."
+    },
+    {
+        "word": "Churlish",
+        "part_of_speech": "Adjective",
+        "definition": "Rude in a mean-spirited and surly way.",
+        "hindi_meaning": "अशिष्ट, बदमिज़ाज",
+        "mnemonic": "Churlish sounds like 'churl-ish,' indicating someone who acts like a churl (a rude or boorish person).",
+        "visual_representation": "Imagine someone being openly rude and ungrateful, symbolizing churlish behavior.",
+        "example_sentence": "His churlish response to the polite request shocked everyone in the room."
+    },
+    {
+        "word": "Detergent",
+        "part_of_speech": "Noun / Adjective",
+        "definition": "A water-soluble cleansing agent that combines with impurities and dirt to make them more soluble and differs from soap in not forming a scum with the salts in hard water.",
+        "hindi_meaning": "डिटर्जेंट, सफाई करने वाला पदार्थ",
+        "mnemonic": "Detergent sounds like 'detergent-clean,' indicating something used to clean or remove dirt.",
+        "visual_representation": "Picture a bottle of detergent being poured into a washing machine to clean clothes.",
+        "example_sentence": "She added detergent to the washing machine to remove the stains from her clothes."
+    },
+    {
+        "word": "Equilibrium",
+        "part_of_speech": "Noun",
+        "definition": "A state in which opposing forces or influences are balanced.",
+        "hindi_meaning": "संतुलन, समस्थिति",
+        "mnemonic": "Equilibrium sounds like 'equal-librium,' indicating a balance between opposing forces.",
+        "visual_representation": "Picture a perfectly balanced scale with equal weights on both sides, symbolizing equilibrium.",
+        "example_sentence": "The economy is in a state of equilibrium where supply matches demand."
+    },
+    {
+        "word": "Forum",
+        "part_of_speech": "Noun",
+        "definition": "A place, meeting, or medium where ideas and views on a particular issue can be exchanged.",
+        "hindi_meaning": "मंच, सभा",
+        "mnemonic": "Forum sounds like 'for-room,' as if providing room for discussion and exchange of ideas.",
+        "visual_representation": "Imagine a group of people sitting in a circle discussing a topic, symbolizing a forum.",
+        "example_sentence": "The university hosted a forum on climate change where experts shared their views."
+    },
+    {
+        "word": "Genre",
+        "part_of_speech": "Noun",
+        "definition": "A category of artistic composition, as in music or literature, characterized by similarities in form, style, or subject matter.",
+        "hindi_meaning": "विधा, प्रकार",
+        "mnemonic": "Genre sounds like 'gen-re,' indicating a category or type of something, like a gene in biology.",
+        "visual_representation": "Picture a bookshelf with sections labeled for different genres, such as mystery, romance, and science fiction.",
+        "example_sentence": "Her favorite genre of music is jazz."
+    },
+    {
+        "word": "Hovel",
+        "part_of_speech": "Noun",
+        "definition": "A small, squalid, unpleasant, or simply constructed dwelling.",
+        "hindi_meaning": "झोपड़ी, गंदा घर",
+        "mnemonic": "Hovel sounds like 'hovel-tiny,' indicating a small, cramped, and poorly built dwelling.",
+        "visual_representation": "Imagine a rundown shack with a leaking roof and dirt floors, symbolizing a hovel.",
+        "example_sentence": "The family lived in a tiny hovel on the outskirts of the city."
+    },
+    {
+        "word": "Incrustation",
+        "part_of_speech": "Noun",
+        "definition": "A hard outer layer or covering, especially one formed by the buildup of matter.",
+        "hindi_meaning": "परत, कठोर आवरण",
+        "mnemonic": "Incrustation sounds like 'in-crust-ation,' indicating something crusted or coated over.",
+        "visual_representation": "Picture a pipe covered with a thick layer of rust or mineral deposits, symbolizing incrustation.",
+        "example_sentence": "The ancient statue was covered in a thick incrustation of mineral deposits."
+    },
+    {
+        "word": "Longevity",
+        "part_of_speech": "Noun",
+        "definition": "Long life; long duration of service.",
+        "hindi_meaning": "दीर्घायु, लंबे समय तक चलने वाला",
+        "mnemonic": "Longevity sounds like 'long-evity,' indicating a long life or duration.",
+        "visual_representation": "Imagine a very old tree that has stood tall for hundreds of years, symbolizing longevity.",
+        "example_sentence": "The longevity of the company is a testament to its strong leadership."
+    },
+    {
+        "word": "Mobile",
+        "part_of_speech": "Adjective / Noun",
+        "definition": "Able to move or be moved freely or easily; relating to or using cellular telecommunication.",
+        "hindi_meaning": "मोबाइल, गतिशील",
+        "mnemonic": "Mobile sounds like 'move-able,' indicating something that can move or be moved easily.",
+        "visual_representation": "Picture a mobile phone, representing something that can be carried and used anywhere.",
+        "example_sentence": "The mobile app allows users to access their accounts from anywhere."
+    },
+    {
+        "word": "Obsolete",
+        "part_of_speech": "Adjective",
+        "definition": "No longer produced or used; out of date.",
+        "hindi_meaning": "अप्रचलित, पुराना",
+        "mnemonic": "Obsolete sounds like 'obso-lete,' as in something that has been let go or discarded because it’s no longer useful.",
+        "visual_representation": "Imagine an old, dusty typewriter next to a modern computer, symbolizing something obsolete.",
+        "example_sentence": "The floppy disk has become obsolete in today’s digital world."
+    },
+    {
+        "word": "Philanthropist",
+        "part_of_speech": "Noun",
+        "definition": "A person who seeks to promote the welfare of others, especially by the generous donation of money to good causes.",
+        "hindi_meaning": "परोपकारी, दानदाता",
+        "mnemonic": "Philanthropist sounds like 'phil-anthropist,' as in someone who loves (phil-) humans (anthrop-) and helps them.",
+        "visual_representation": "Picture a wealthy individual donating large sums of money to build schools or hospitals, symbolizing philanthropy.",
+        "example_sentence": "The philanthropist donated millions to fund education programs in underdeveloped areas."
+    },
+    {
+        "word": "Repository",
+        "part_of_speech": "Noun",
+        "definition": "A place, building, or receptacle where things are or may be stored.",
+        "hindi_meaning": "भंडार, संग्रह स्थल",
+        "mnemonic": "Repository sounds like 'repose-story,' as if storing or keeping things at rest.",
+        "visual_representation": "Imagine a library full of books, serving as a repository of knowledge.",
+        "example_sentence": "The museum is a repository of ancient artifacts."
+    },
+    {
+        "word": "Skulk",
+        "part_of_speech": "Verb",
+        "definition": "To keep out of sight, typically with a sinister or cowardly motive.",
+        "hindi_meaning": "छुपकर रहना, गुप्त रूप से घुसपैठ करना",
+        "mnemonic": "Skulk sounds like 'skull-k,' indicating someone moving stealthily like a skeleton or ghost.",
+        "visual_representation": "Picture someone sneaking around in the shadows, trying not to be seen, symbolizing skulking.",
+        "example_sentence": "The thief skulked in the alley, waiting for the right moment to strike."
+    },
+    {
+        "word": "Trough",
+        "part_of_speech": "Noun",
+        "definition": "A long, narrow open container for animals to eat or drink out of; a low point in a cycle or series.",
+        "hindi_meaning": "नांद, गर्त",
+        "mnemonic": "Trough sounds like 'tough,' indicating the low or difficult part of a cycle.",
+        "visual_representation": "Imagine a feeding trough filled with water or food for animals, symbolizing a trough.",
+        "example_sentence": "The economy is currently in a trough, but experts expect it to recover soon."
+    },
+    {
+        "word": "Vendetta",
+        "part_of_speech": "Noun",
+        "definition": "A prolonged bitter quarrel with or campaign against someone.",
+        "hindi_meaning": "प्रतिशोध, पुरानी दुश्मनी",
+        "mnemonic": "Vendetta sounds like 'vengeful-data,' indicating a personal campaign of revenge.",
+        "visual_representation": "Picture two families locked in a bitter feud for generations, symbolizing a vendetta.",
+        "example_sentence": "The vendetta between the two rival families had lasted for decades."
+    }
+]

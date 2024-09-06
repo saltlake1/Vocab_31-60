@@ -1,0 +1,155 @@
+[
+    {
+        "word": "Agrarian",
+        "part_of_speech": "Adjective",
+        "definition": "Relating to cultivated land or the cultivation of land; related to farming or rural matters.",
+        "hindi_meaning": "कृषिक, कृषि संबंधी",
+        "mnemonic": "Agrarian sounds like 'agri-arian,' indicating something related to agriculture or farming.",
+        "visual_representation": "Picture vast green fields with farmers working, symbolizing agrarian landscapes.",
+        "example_sentence": "The community’s agrarian lifestyle revolved around farming and livestock."
+    },
+    {
+        "word": "Brazen",
+        "part_of_speech": "Adjective",
+        "definition": "Bold and without shame.",
+        "hindi_meaning": "बेशर्म, निर्लज्ज",
+        "mnemonic": "Brazen sounds like 'brave-en,' as if someone is overly brave, to the point of being shameless.",
+        "visual_representation": "Imagine someone openly breaking a rule in front of others without any sign of embarrassment, symbolizing brazen behavior.",
+        "example_sentence": "She made a brazen attempt to cheat on the exam, even though the teacher was watching."
+    },
+    {
+        "word": "Circumspect",
+        "part_of_speech": "Adjective",
+        "definition": "Wary and unwilling to take risks; cautious.",
+        "hindi_meaning": "सतर्क, चौकस",
+        "mnemonic": "Circumspect sounds like 'circle-inspect,' indicating carefully inspecting all around before making a decision.",
+        "visual_representation": "Picture someone carefully looking around before crossing a busy street, symbolizing circumspect behavior.",
+        "example_sentence": "He was circumspect in his decision-making, always considering every possible outcome."
+    },
+    {
+        "word": "Deviate",
+        "part_of_speech": "Verb",
+        "definition": "To depart from an established course or norm.",
+        "hindi_meaning": "विचलित होना, हटना",
+        "mnemonic": "Deviate sounds like 'devi-ate,' as in deviating from the straight path.",
+        "visual_representation": "Imagine a straight road with someone suddenly turning off onto a side path, symbolizing deviation.",
+        "example_sentence": "The project deviated from its original plan due to unforeseen circumstances."
+    },
+    {
+        "word": "Equivocate",
+        "part_of_speech": "Verb",
+        "definition": "To use ambiguous language so as to conceal the truth or avoid committing oneself.",
+        "hindi_meaning": "गोलमोल बात करना, टालना",
+        "mnemonic": "Equivocate sounds like 'equal-vocate,' as if speaking in a way that could be interpreted in multiple ways.",
+        "visual_representation": "Picture someone speaking in vague, unclear terms, leaving others unsure of their true meaning, symbolizing equivocation.",
+        "example_sentence": "The politician tended to equivocate when asked direct questions about his policies."
+    },
+    {
+        "word": "Frail",
+        "part_of_speech": "Adjective",
+        "definition": "(Of a person) weak and delicate; easily damaged or broken.",
+        "hindi_meaning": "कमजोर, नाजुक",
+        "mnemonic": "Frail sounds like 'fail,' indicating something likely to fail or break because it’s weak.",
+        "visual_representation": "Imagine a fragile, delicate flower that could easily be crushed, symbolizing frailty.",
+        "example_sentence": "The elderly woman was frail and needed assistance to walk."
+    },
+    {
+        "word": "Glib",
+        "part_of_speech": "Adjective",
+        "definition": "(Of words or a speaker) fluent and voluble but insincere and shallow.",
+        "hindi_meaning": "चालाक, चतुराईपूर्ण",
+        "mnemonic": "Glib sounds like 'glibberish,' as if someone is talking smoothly but without real meaning or sincerity.",
+        "visual_representation": "Picture a salesperson speaking quickly and confidently, but with a sense that they’re not being entirely honest, symbolizing glibness.",
+        "example_sentence": "His glib answers during the interview made the panel question his sincerity."
+    },
+    {
+        "word": "Hoary",
+        "part_of_speech": "Adjective",
+        "definition": "Gray or white with age; old and trite.",
+        "hindi_meaning": "पुराना, वृद्ध",
+        "mnemonic": "Hoary sounds like 'hairy,' as in gray hair that comes with age.",
+        "visual_representation": "Picture an old, wise person with a long, white beard, symbolizing something hoary.",
+        "example_sentence": "The hoary legend had been passed down through generations."
+    },
+    {
+        "word": "Indefatigable",
+        "part_of_speech": "Adjective",
+        "definition": "Persisting tirelessly; never showing signs of fatigue.",
+        "hindi_meaning": "अटूट, अजेय",
+        "mnemonic": "Indefatigable sounds like 'in-defeat-able,' as in someone who cannot be worn out or defeated.",
+        "visual_representation": "Picture a marathon runner who continues running without stopping, symbolizing indefatigability.",
+        "example_sentence": "Her indefatigable spirit kept the team motivated through the toughest challenges."
+    },
+    {
+        "word": "Lurk",
+        "part_of_speech": "Verb",
+        "definition": "To remain hidden so as to wait in ambush; to move stealthily or furtively.",
+        "hindi_meaning": "छुपकर रहना, गुप्त रूप से देखना",
+        "mnemonic": "Lurk sounds like 'look-,' as in someone hiding and watching from the shadows.",
+        "visual_representation": "Picture a cat hiding in the grass, waiting to pounce on its prey, symbolizing lurking.",
+        "example_sentence": "The thief lurked in the alley, waiting for the perfect moment to strike."
+    },
+    {
+        "word": "Mollify",
+        "part_of_speech": "Verb",
+        "definition": "To appease the anger or anxiety of someone; to soothe or calm.",
+        "hindi_meaning": "शांत करना, तसल्ली देना",
+        "mnemonic": "Mollify sounds like 'moll-soften,' as in softening someone’s anger or concerns.",
+        "visual_representation": "Picture someone offering comforting words to a friend who is upset, symbolizing mollification.",
+        "example_sentence": "The manager tried to mollify the employees’ concerns with promises of better working conditions."
+    },
+    {
+        "word": "Oracular",
+        "part_of_speech": "Adjective",
+        "definition": "Relating to an oracle; prophetic or mysterious.",
+        "hindi_meaning": "भविष्यवाणी संबंधी, रहस्यमय",
+        "mnemonic": "Oracular sounds like 'oracle-ar,' indicating something that speaks like an oracle, often mysterious or prophetic.",
+        "visual_representation": "Picture a wise, mysterious figure giving cryptic advice, symbolizing something oracular.",
+        "example_sentence": "Her oracular statements left everyone wondering what the future might hold."
+    },
+    {
+        "word": "Phylum",
+        "part_of_speech": "Noun",
+        "definition": "A principal taxonomic category that ranks above class and below kingdom, especially in zoology.",
+        "hindi_meaning": "जीव-जगत की प्रमुख श्रेणी",
+        "mnemonic": "Phylum sounds like 'file-um,' indicating a classification or grouping in biology.",
+        "visual_representation": "Imagine a tree diagram showing the major categories of life, with phylum as a key branch, symbolizing classification.",
+        "example_sentence": "Humans belong to the phylum Chordata, which includes animals with a backbone."
+    },
+    {
+        "word": "Reprise",
+        "part_of_speech": "Noun / Verb",
+        "definition": "A repeated passage in music; to repeat (a passage or phrase).",
+        "hindi_meaning": "पुनरावृत्ति, दुहराव",
+        "mnemonic": "Reprise sounds like 're-prize,' indicating a repeated or rewarded performance or passage.",
+        "visual_representation": "Picture a chorus being repeated in a song, symbolizing a reprise.",
+        "example_sentence": "The band played a reprise of their most popular song as an encore."
+    },
+    {
+        "word": "Sleeper",
+        "part_of_speech": "Noun",
+        "definition": "Something originally of little value or importance that in time becomes very valuable; a person or animal who sleeps or an item that aids sleeping.",
+        "hindi_meaning": "अप्रत्याशित सफलता, सोने वाला",
+        "mnemonic": "Sleeper sounds like 'sleep-er,' indicating something that surprises or quietly gains value over time.",
+        "visual_representation": "Imagine an underdog athlete who later becomes a champion, symbolizing a sleeper.",
+        "example_sentence": "The low-budget movie turned out to be a sleeper hit, becoming a huge success."
+    },
+    {
+        "word": "Tundra",
+        "part_of_speech": "Noun",
+        "definition": "A vast, flat, treeless Arctic region in which the subsoil is permanently frozen.",
+        "hindi_meaning": "बर्फीला मैदान, टुंड्रा प्रदेश",
+        "mnemonic": "Tundra sounds like 'tund-er-a,' indicating a cold, barren landscape.",
+        "visual_representation": "Picture a vast, icy plain with no trees, just snow and ice, symbolizing a tundra.",
+        "example_sentence": "The Arctic tundra is home to a variety of unique wildlife adapted to the cold climate."
+    },
+    {
+        "word": "Vindictive",
+        "part_of_speech": "Adjective",
+        "definition": "Having or showing a strong or unreasoning desire for revenge.",
+        "hindi_meaning": "प्रतिशोधी, बदला लेने वाला",
+        "mnemonic": "Vindictive sounds like 'win-dict-tive,' indicating someone driven to 'win' by seeking revenge.",
+        "visual_representation": "Picture someone plotting to get back at another person out of spite, symbolizing vindictiveness.",
+        "example_sentence": "His vindictive nature made it difficult for him to forgive those who wronged him."
+    }
+]

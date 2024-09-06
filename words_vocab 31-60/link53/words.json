@@ -1,0 +1,155 @@
+[
+    {
+        "word": "Affliction",
+        "part_of_speech": "Noun",
+        "definition": "Something that causes pain or suffering.",
+        "hindi_meaning": "पीड़ा, कष्ट",
+        "mnemonic": "Affliction sounds like 'affect-shun,' indicating something that negatively affects someone, causing pain.",
+        "visual_representation": "Picture someone suffering from a severe illness, symbolizing affliction.",
+        "example_sentence": "The drought brought great affliction to the farmers, who lost their crops."
+    },
+    {
+        "word": "Bombastic",
+        "part_of_speech": "Adjective",
+        "definition": "High-sounding but with little meaning; inflated.",
+        "hindi_meaning": "आडंबरपूर्ण, शब्दाडंबर",
+        "mnemonic": "Bombastic sounds like 'bomb-blastic,' indicating speech that’s explosive in style but lacks substance.",
+        "visual_representation": "Imagine someone making a grand speech with lots of big words but little actual content, symbolizing bombast.",
+        "example_sentence": "The politician’s bombastic rhetoric did little to address the real issues."
+    },
+    {
+        "word": "Chimerical",
+        "part_of_speech": "Adjective",
+        "definition": "Existing only as the product of unchecked imagination; fantastically visionary or improbable.",
+        "hindi_meaning": "काल्पनिक, अवास्तविक",
+        "mnemonic": "Chimerical sounds like 'miracle,' indicating something so fantastical it could only be imagined.",
+        "visual_representation": "Picture a mythical creature from a fantasy world, symbolizing something chimerical.",
+        "example_sentence": "His plans for a utopian society were dismissed as chimerical and unrealistic."
+    },
+    {
+        "word": "Desolate",
+        "part_of_speech": "Adjective",
+        "definition": "Deserted of people and in a state of bleak and dismal emptiness.",
+        "hindi_meaning": "उजाड़, वीरान",
+        "mnemonic": "Desolate sounds like 'desert-late,' indicating a place as empty and lonely as a deserted area.",
+        "visual_representation": "Imagine an abandoned town with no people, broken buildings, and overgrown weeds, symbolizing desolation.",
+        "example_sentence": "The once-thriving city now looked desolate after the disaster."
+    },
+    {
+        "word": "Epistolary",
+        "part_of_speech": "Adjective",
+        "definition": "Relating to or in the form of letters.",
+        "hindi_meaning": "पत्रात्मक, पत्र-संबंधी",
+        "mnemonic": "Epistolary sounds like 'pistolary,' indicating something related to letters or correspondence.",
+        "visual_representation": "Picture a stack of handwritten letters tied together with a ribbon, symbolizing an epistolary form.",
+        "example_sentence": "The novel was written in an epistolary style, consisting entirely of letters between the characters."
+    },
+    {
+        "word": "Formality",
+        "part_of_speech": "Noun",
+        "definition": "The rigid observance of rules of convention or etiquette; an established procedure that is required or expected.",
+        "hindi_meaning": "औपचारिकता, विधि-विधान",
+        "mnemonic": "Formality sounds like 'formal-ity,' indicating something done in a formal or official manner.",
+        "visual_representation": "Picture a formal ceremony where everyone follows strict rules and protocols, symbolizing formality.",
+        "example_sentence": "The signing of the contract was just a formality, as all terms had already been agreed upon."
+    },
+    {
+        "word": "Gall",
+        "part_of_speech": "Noun / Verb",
+        "definition": "Bold, impudent behavior; to irritate or annoy.",
+        "hindi_meaning": "धृष्टता, साहस; चिढ़ाना",
+        "mnemonic": "Gall sounds like 'all gall,' indicating someone with the nerve to do something bold or rude.",
+        "visual_representation": "Imagine someone cutting in line with no regard for others, symbolizing gall.",
+        "example_sentence": "It took a lot of gall for him to ask for a raise after showing up late to work every day."
+    },
+    {
+        "word": "Heinous",
+        "part_of_speech": "Adjective",
+        "definition": "Utterly odious or wicked, especially of a crime.",
+        "hindi_meaning": "घृणित, जघन्य",
+        "mnemonic": "Heinous sounds like 'hey-nous,' as if reacting with horror to something terrible.",
+        "visual_representation": "Picture a news headline about a shocking crime, symbolizing something heinous.",
+        "example_sentence": "The heinous crime shocked the entire nation."
+    },
+    {
+        "word": "Incontinent",
+        "part_of_speech": "Adjective",
+        "definition": "Lacking self-restraint; uncontrolled.",
+        "hindi_meaning": "असंयमी, नियंत्रणहीन",
+        "mnemonic": "Incontinent sounds like 'in-control-not,' indicating someone who lacks control.",
+        "visual_representation": "Imagine someone impulsively acting without thinking, symbolizing incontinence.",
+        "example_sentence": "His incontinent behavior at the meeting made everyone uncomfortable."
+    },
+    {
+        "word": "Licentious",
+        "part_of_speech": "Adjective",
+        "definition": "Promiscuous and unprincipled in sexual matters; disregarding accepted rules or conventions.",
+        "hindi_meaning": "अनैतिक, उच्छृंखल",
+        "mnemonic": "Licentious sounds like 'license-tious,' as if someone believes they have the license to behave without morals.",
+        "visual_representation": "Picture someone openly flouting societal norms with scandalous behavior, symbolizing licentiousness.",
+        "example_sentence": "The novel’s licentious content led to it being banned in several countries."
+    },
+    {
+        "word": "Mishap",
+        "part_of_speech": "Noun",
+        "definition": "An unlucky accident.",
+        "hindi_meaning": "दुर्घटना, अनहोनी",
+        "mnemonic": "Mishap sounds like 'miss-happen,' indicating something that went wrong or didn’t happen as planned.",
+        "visual_representation": "Imagine someone slipping on a banana peel, symbolizing an unfortunate mishap.",
+        "example_sentence": "Despite the mishap, the event continued without further problems."
+    },
+    {
+        "word": "Ossify",
+        "part_of_speech": "Verb",
+        "definition": "To turn into bone or bony tissue; to become rigid or inflexible in habits or attitudes.",
+        "hindi_meaning": "हड्डी बनाना, कठोर बनाना",
+        "mnemonic": "Ossify sounds like 'oss-bone-fy,' indicating turning into bone or becoming rigid.",
+        "visual_representation": "Picture a flexible branch slowly turning into solid bone, symbolizing ossification.",
+        "example_sentence": "Over time, his beliefs ossified, and he became resistant to new ideas."
+    },
+    {
+        "word": "Pervasive",
+        "part_of_speech": "Adjective",
+        "definition": "Spreading widely throughout an area or a group of people, especially of an unwelcome influence or physical effect.",
+        "hindi_meaning": "व्यापक, सर्वव्यापी",
+        "mnemonic": "Pervasive sounds like 'per-vase-ive,' indicating something spreading through every part, like water through a vase.",
+        "visual_representation": "Imagine smoke filling every corner of a room, symbolizing something pervasive.",
+        "example_sentence": "The pervasive smell of garlic filled the entire house."
+    },
+    {
+        "word": "Repel",
+        "part_of_speech": "Verb",
+        "definition": "To drive or force (an attack or attacker) back or away; to be repulsive or distasteful to.",
+        "hindi_meaning": "दूर भगाना, विकर्षित करना",
+        "mnemonic": "Repel sounds like 're-pel,' indicating pushing something back or away.",
+        "visual_representation": "Picture a person using bug spray to repel insects, symbolizing repulsion.",
+        "example_sentence": "The strong odor repelled everyone from the room."
+    },
+    {
+        "word": "Singular",
+        "part_of_speech": "Adjective",
+        "definition": "Exceptionally good or great; remarkable; referring to one person or thing.",
+        "hindi_meaning": "अद्वितीय, अकेला",
+        "mnemonic": "Singular sounds like 'single-lar,' indicating something unique or one of a kind.",
+        "visual_representation": "Imagine a star shining brightly in the night sky, standing out as singular.",
+        "example_sentence": "Her singular talent for music was evident from a young age."
+    },
+    {
+        "word": "Trepidation",
+        "part_of_speech": "Noun",
+        "definition": "A feeling of fear or anxiety about something that may happen.",
+        "hindi_meaning": "घबराहट, भय",
+        "mnemonic": "Trepidation sounds like 'tremble-dation,' indicating trembling with fear.",
+        "visual_representation": "Picture someone standing at the edge of a high cliff, looking down with trepidation.",
+        "example_sentence": "There was a sense of trepidation in the air as the exam results were announced."
+    },
+    {
+        "word": "Vitriolic",
+        "part_of_speech": "Adjective",
+        "definition": "Filled with bitter criticism or malice.",
+        "hindi_meaning": "कटु, विषाक्त",
+        "mnemonic": "Vitriolic sounds like 'vicious-trollic,' indicating a vicious, bitter tone.",
+        "visual_representation": "Imagine someone hurling sharp, angry words in an argument, symbolizing vitriolic speech.",
+        "example_sentence": "The debate turned vitriolic, with both sides resorting to personal attacks."
+    }
+]

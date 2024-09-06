@@ -1,0 +1,182 @@
+[
+    {
+        "word": "Actuate",
+        "part_of_speech": "Verb",
+        "definition": "To cause (a machine or device) to operate; to cause someone to act in a particular way or motivate them to do something.",
+        "hindi_meaning": "प्रेरित करना, चालू करना",
+        "mnemonic": "Actuate sounds like 'act you ate,' as in something that causes you to act or operate.",
+        "visual_representation": "Picture someone pressing a button that starts a machine, symbolizing actuation.",
+        "example_sentence": "The engineer actuated the device to start the production process."
+    },
+    {
+        "word": "Betray",
+        "part_of_speech": "Verb",
+        "definition": "To reveal or disclose information, often in violation of trust; to be disloyal or unfaithful.",
+        "hindi_meaning": "विश्वासघात करना, धोखा देना",
+        "mnemonic": "Betray sounds like 'be-tray,' as in to be a traitor.",
+        "visual_representation": "Imagine someone revealing a secret that was meant to be kept, symbolizing betrayal.",
+        "example_sentence": "She felt betrayed when her best friend told others her secret."
+    },
+    {
+        "word": "Celebrated",
+        "part_of_speech": "Adjective",
+        "definition": "Widely known and praised for excellence or achievement; famous.",
+        "hindi_meaning": "प्रसिद्ध, विख्यात",
+        "mnemonic": "Celebrated sounds like 'celebrity-rated,' indicating someone who is famous or highly regarded.",
+        "visual_representation": "Picture a famous actor being applauded by a crowd, symbolizing someone celebrated.",
+        "example_sentence": "The celebrated author was invited to speak at the international book fair."
+    },
+    {
+        "word": "Delusion",
+        "part_of_speech": "Noun",
+        "definition": "A false belief or opinion, especially one held despite strong evidence to the contrary.",
+        "hindi_meaning": "भ्रांति, गलतफहमी",
+        "mnemonic": "Delusion sounds like 'illusion,' indicating a false belief or misunderstanding.",
+        "visual_representation": "Imagine someone insisting that they can fly, despite all evidence to the contrary, symbolizing a delusion.",
+        "example_sentence": "His delusion of being invincible led him to take unnecessary risks."
+    },
+    {
+        "word": "Endorse",
+        "part_of_speech": "Verb",
+        "definition": "To declare one's public approval or support of something; to sign the back of a check to make it payable to someone else.",
+        "hindi_meaning": "समर्थन करना, अनुमोदन करना",
+        "mnemonic": "Endorse sounds like 'in doors,' as if you’re letting someone in by approving them.",
+        "visual_representation": "Picture a famous athlete endorsing a brand by appearing in a commercial.",
+        "example_sentence": "The politician was endorsed by several prominent figures in the community."
+    },
+    {
+        "word": "Flaunt",
+        "part_of_speech": "Verb",
+        "definition": "To display something ostentatiously, especially in order to provoke envy or admiration.",
+        "hindi_meaning": "दिखावा करना, दिखाने के लिए प्रदर्शित करना",
+        "mnemonic": "Flaunt sounds like 'flaw not,' as if you’re showing off something with no flaws.",
+        "visual_representation": "Imagine someone wearing flashy jewelry and showing it off to everyone, symbolizing flaunting.",
+        "example_sentence": "She liked to flaunt her wealth by driving around in expensive cars."
+    },
+    {
+        "word": "Gourmet",
+        "part_of_speech": "Noun / Adjective",
+        "definition": "A person who enjoys and knows a lot about good food and drink; of or characteristic of high-quality food and drink.",
+        "hindi_meaning": "खाने-पीने का शौकीन, स्वादिष्ट भोजन",
+        "mnemonic": "Gourmet sounds like 'gourmet chef,' indicating someone with refined tastes in food.",
+        "visual_representation": "Picture a fine dining restaurant with elegantly prepared dishes, symbolizing gourmet food.",
+        "example_sentence": "The gourmet restaurant is famous for its exquisite cuisine and impeccable service."
+    },
+    {
+        "word": "Hypocritical",
+        "part_of_speech": "Adjective",
+        "definition": "Behaving in a way that suggests one has higher standards or more noble beliefs than is the case.",
+        "hindi_meaning": "पाखंडी, ढोंगी",
+        "mnemonic": "Hypocritical sounds like 'hippo-critical,' as if someone criticizes others while doing the same thing.",
+        "visual_representation": "Imagine someone preaching honesty but secretly lying, symbolizing hypocrisy.",
+        "example_sentence": "It was hypocritical of him to criticize others for being late when he himself was always tardy."
+    },
+    {
+        "word": "Impropriety",
+        "part_of_speech": "Noun",
+        "definition": "A failure to observe standards or show due honesty or modesty; improper behavior or character.",
+        "hindi_meaning": "अनुचित आचरण, अशिष्टता",
+        "mnemonic": "Impropriety sounds like 'improper it is,' indicating something that is not proper or acceptable.",
+        "visual_representation": "Picture someone acting rudely at a formal event, symbolizing impropriety.",
+        "example_sentence": "The politician’s impropriety during the meeting caused a scandal."
+    },
+    {
+        "word": "Loll",
+        "part_of_speech": "Verb",
+        "definition": "To sit, lie, or stand in a lazy, relaxed way; to hang loosely or droop.",
+        "hindi_meaning": "आलसी ढंग से बैठना, लटकना",
+        "mnemonic": "Loll sounds like 'lolling around,' meaning to laze around or droop.",
+        "visual_representation": "Imagine someone lounging on a sofa, lazily flipping through a magazine, symbolizing lolling.",
+        "example_sentence": "He lolled on the couch all afternoon, doing nothing in particular."
+    },
+    {
+        "word": "Mendicant",
+        "part_of_speech": "Noun / Adjective",
+        "definition": "A beggar; relating to or characteristic of a beggar.",
+        "hindi_meaning": "भिखारी, याचक",
+        "mnemonic": "Mendicant sounds like 'mend I can't,' indicating someone who cannot support themselves and must beg.",
+        "visual_representation": "Picture a person sitting on the street with a cup in hand, asking for money, symbolizing a mendicant.",
+        "example_sentence": "The mendicant sat by the roadside, hoping for the kindness of strangers."
+    },
+    {
+        "word": "Nettle",
+        "part_of_speech": "Verb / Noun",
+        "definition": "To irritate or annoy someone; a plant with stinging hairs.",
+        "hindi_meaning": "चिड़चिड़ाना, परेशान करना",
+        "mnemonic": "Nettle sounds like 'needle,' something that pricks or irritates you.",
+        "visual_representation": "Imagine someone being pricked by a nettle plant, causing irritation, symbolizing the act of nettling.",
+        "example_sentence": "Her constant complaints began to nettle everyone around her."
+    },
+    {
+        "word": "Oscillate",
+        "part_of_speech": "Verb",
+        "definition": "To move or swing back and forth at a regular speed; to waver between extremes of opinion, action, or quality.",
+        "hindi_meaning": "डगमगाना, झूलना",
+        "mnemonic": "Oscillate sounds like 'oscillator,' a device that moves back and forth.",
+        "visual_representation": "Picture a fan oscillating, moving side to side to cool the entire room.",
+        "example_sentence": "The pendulum of the clock oscillated steadily, keeping time."
+    },
+    {
+        "word": "Pedestrian",
+        "part_of_speech": "Adjective / Noun",
+        "definition": "Lacking inspiration or excitement; dull; a person walking along a road or in a developed area.",
+        "hindi_meaning": "साधारण, पैदल यात्री",
+        "mnemonic": "Pedestrian sounds like 'pedi-strain,' as in walking on foot and being ordinary or dull.",
+        "visual_representation": "Picture a dull, uninspiring street with nothing special to look at, symbolizing something pedestrian.",
+        "example_sentence": "The pedestrian speech failed to capture the audience’s attention."
+    },
+    {
+        "word": "Refute",
+        "part_of_speech": "Verb",
+        "definition": "To prove a statement or theory to be wrong or false; to disprove.",
+        "hindi_meaning": "खंडन करना, गलत साबित करना",
+        "mnemonic": "Refute sounds like 'refuse,' indicating rejecting or disproving something.",
+        "visual_representation": "Picture someone showing evidence to prove that a claim is false, symbolizing refutation.",
+        "example_sentence": "The scientist refuted the old theory with new experimental data."
+    },
+    {
+        "word": "Seemly",
+        "part_of_speech": "Adjective",
+        "definition": "Conforming to accepted notions of propriety or good taste; decorous.",
+        "hindi_meaning": "शोभनीय, उपयुक्त",
+        "mnemonic": "Seemly sounds like 'seems like,' indicating something that seems proper or appropriate.",
+        "visual_representation": "Picture someone dressed appropriately for a formal event, symbolizing seemly behavior.",
+        "example_sentence": "His seemly behavior at the dinner impressed everyone."
+    },
+    {
+        "word": "Tonic",
+        "part_of_speech": "Noun",
+        "definition": "A medicinal substance taken to give a feeling of vigor or well-being; something that invigorates or strengthens.",
+        "hindi_meaning": "टॉनिक, बल देने वाला",
+        "mnemonic": "Tonic sounds like 'tonic water,' something refreshing and invigorating.",
+        "visual_representation": "Imagine a bottle of tonic that revitalizes someone’s energy, symbolizing a tonic.",
+        "example_sentence": "The fresh mountain air was like a tonic, refreshing and invigorating."
+    },
+    {
+        "word": "Utopia",
+        "part_of_speech": "Noun",
+        "definition": "An imagined place or state of things in which everything is perfect.",
+        "hindi_meaning": "आदर्श लोक, काल्पनिक आदर्श समाज",
+        "mnemonic": "Utopia sounds like 'you-topia,' a perfect place for you, where everything is ideal.",
+        "visual_representation": "Picture a perfect, harmonious society where everyone is happy, symbolizing utopia.",
+        "example_sentence": "The novel described a utopia where poverty, war, and suffering had been eradicated."
+    },
+    {
+        "word": "Vital",
+        "part_of_speech": "Adjective",
+        "definition": "Absolutely necessary or important; essential; full of energy and life.",
+        "hindi_meaning": "अत्यावश्यक, जीवन्त",
+        "mnemonic": "Vital sounds like 'vital organs,' which are essential for life.",
+        "visual_representation": "Picture a heart pumping blood, symbolizing something vital to life.",
+        "example_sentence": "Proper nutrition is vital for maintaining good health."
+    },
+    {
+        "word": "Wake",
+        "part_of_speech": "Noun / Verb",
+        "definition": "The trail left by a boat or other object moving through water; a vigil held after someone’s death; to become awake or alert.",
+        "hindi_meaning": "पानी में नाव के पीछे बनी लहरें, जागना, मृतक के सम्मान में आयोजित जागरण",
+        "mnemonic": "Wake as in 'awake' or 'the trail behind a boat,' indicating a path or aftermath.",
+        "visual_representation": "Imagine the ripples left behind by a boat moving through water, symbolizing a wake.",
+        "example_sentence": "In the wake of the storm, the town was left in ruins."
+    }
+]
